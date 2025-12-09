@@ -1,0 +1,102 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "hydration"
+	group: "1823AA5CAB2A3F54"
+	icon: {
+		Count: 1
+		id: "minecraft:potion"
+		tag: {
+			Potion: "minecraft:water"
+		}
+	}
+	id: "384121B6F4094480"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"09FD112EE22F0DC5"
+				"2E890C541CB4B7F5"
+			]
+			id: "35FB7BB4E6944D9A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D51ED23AA2C5AA0"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "636E54A307612B15"
+				item: "toughasnails:water_purifier"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.75d
+		}
+		{
+			id: "09FD112EE22F0DC5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "627FFF29E32667F3"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "561406637ABAF993"
+				item: "minecraft:charcoal"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "2E890C541CB4B7F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "26116687343A53E7"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "19F32054DA327E9F"
+				item: {
+					Count: 1
+					id: "toughasnails:empty_leather_canteen"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["35FB7BB4E6944D9A"]
+			id: "1A279889FFB3F163"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42BC1E7E5E54D814"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "2FC6B12A1E8664A9"
+				item: {
+					Count: 1
+					id: "toughasnails:leather_purified_water_canteen"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.75d
+		}
+	]
+	title: "Hydration"
+}

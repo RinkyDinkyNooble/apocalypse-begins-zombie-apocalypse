@@ -1,0 +1,330 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "touch_as_nails"
+	group: "1823AA5CAB2A3F54"
+	icon: "toughasnails:thermometer"
+	id: "76FA603B0557F232"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["13F5736B4EE9C398"]
+			id: "466F34965BA645F0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68ADEF96C1A62414"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5B22CCAC31CA677B"
+				item: "toughasnails:thermoregulator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"2863C19BC9BED103"
+				"1F0E9EAED714FBB6"
+				"5A949719D8C21A56"
+				"4772CE101B9A0249"
+				"7379074F7709E1E2"
+			]
+			id: "46C1D2B53756036D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DF0F4E7870F8F13"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "070F250FB0E71EAA"
+				item: "tan__a_curios_expansion:universal_thermal_insulation"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"466F34965BA645F0"
+				"29ECAF7F26A62F5C"
+				"485FE23969CC8D9E"
+			]
+			id: "2863C19BC9BED103"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "454796D81C1B6085"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "051E2661CC9D4192"
+				item: "tan__a_curios_expansion:cooling_thermal_insulation"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"466F34965BA645F0"
+				"29ECAF7F26A62F5C"
+				"5A5385A0EF52F662"
+			]
+			id: "1F0E9EAED714FBB6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AF04B64AD4928F5"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "45DBC78849D9DE8A"
+				item: "tan__a_curios_expansion:heated_thermal_insulation"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["29ECAF7F26A62F5C"]
+			id: "7379074F7709E1E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7CAED053A93C5E46"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "653CDB96588FDE80"
+				item: "tan__a_curios_expansion:regulation_crystal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["29ECAF7F26A62F5C"]
+			id: "5A949719D8C21A56"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4321EE3FD987A387"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3380304865C2850E"
+				item: { Count: 2, id: "tan__a_curios_expansion:regulation_circuit" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["29ECAF7F26A62F5C"]
+			id: "4772CE101B9A0249"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C6B53FC677C76CF"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "436181ABBF0BC446"
+				item: { Count: 2, id: "tan__a_curios_expansion:firoze_bucket" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1DE3F037757FB6FD"]
+			id: "29ECAF7F26A62F5C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CDB0D4C16862FF9"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4A3C992738F3E243"
+				item: "tan__a_curios_expansion:regulation_circuit_shard"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "1DE3F037757FB6FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "19B9310BA9F78104"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6E8B28F461DE9032"
+				item: "minecraft:prismarine_crystals"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "13F5736B4EE9C398"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0FFD59E0BECEBE69"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "249BF8EFF1247C5C"
+				item: "toughasnails:thermometer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			id: "68DE8EFC18DA4036"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6445A544AA14881F"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2B866FEC986B2F7F"
+				item: "sereneseasons:calendar"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			id: "485FE23969CC8D9E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17248680533C5D63"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "650875D9757C6695"
+					item: {
+						Count: 1
+						id: "toughasnails:wool_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "790FBF1CCE2E8017"
+					item: {
+						Count: 1
+						id: "toughasnails:wool_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "442B62D2DD62D007"
+					item: {
+						Count: 1
+						id: "toughasnails:wool_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "092FEC0E2B55B753"
+					item: {
+						Count: 1
+						id: "toughasnails:wool_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Wool Armor"
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			id: "5A5385A0EF52F662"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "560914D8A6E2B1B5"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4E0490B3F7A25DC9"
+					item: {
+						Count: 1
+						id: "toughasnails:leaf_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "673A83CB2A918D62"
+					item: {
+						Count: 1
+						id: "toughasnails:leaf_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B5F443A2DAEF4E3"
+					item: {
+						Count: 1
+						id: "toughasnails:leaf_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FAD63F38B3A61B3"
+					item: {
+						Count: 1
+						id: "toughasnails:leaf_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Leaf Armor"
+			x: 3.0d
+			y: -2.5d
+		}
+	]
+	title: "Temperature"
+}

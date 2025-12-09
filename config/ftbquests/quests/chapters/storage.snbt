@@ -1,0 +1,137 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "storage"
+	group: "161D2C39EA3460F0"
+	icon: "sophisticatedbackpacks:backpack"
+	id: "566E184F9C8A529A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "071F97EE78F8B32F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D1E7F630D18EE8C"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "22E6F6229D6C5BFF"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["071F97EE78F8B32F"]
+			id: "74118971770DCF69"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "001B92A68BD7240B"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6F40E9191D9B3D6B"
+				item: "sophisticatedbackpacks:upgrade_base"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["74118971770DCF69"]
+			id: "0A81D9F3872D7539"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "172FEA3880B4171F"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "6B3F24A75F6A25C7"
+				item: "sophisticatedbackpacks:crafting_upgrade"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			id: "0B7C5522A94A4BDC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37BF7F353F6CEBCB"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "refinedstorage:root"
+				criterion: ""
+				id: "47C08BAC18E2A64B"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			id: "2CEDC5DE635DC4FB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B120389197B437F"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "refinedstorage:drives"
+				criterion: ""
+				id: "1622B090F80F7040"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "07DF90BBE1F61D4D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1AA218284BBD0910"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "refinedstorage:viewing_items"
+				criterion: ""
+				id: "0B4267B0EF38EEA2"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "2ED0FBD3EAEBFF7B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C5BF945388A7161"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "refinedstorage:storing_items"
+				criterion: ""
+				id: "3A5CDA1BEFD7D02C"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+	]
+	title: "Storage"
+}

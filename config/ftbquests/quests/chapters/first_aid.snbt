@@ -1,0 +1,84 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "first_aid"
+	group: "1823AA5CAB2A3F54"
+	icon: "firstaid:plaster"
+	id: "4CF0D53B3CC86E8B"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "55DD2A935EB2E541"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1CAAAEFDC8800044"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4A57646154F5392C"
+				item: "firstaid:plaster"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "6B6A39375D8C3848"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7ECB2F8530F813CD"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6FE8297FD7E16F45"
+				item: "firstaid:bandage"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "405DE469584E689C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37F09CA230547A55"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "76720E9E8DEF6479"
+				item: "firstaid:morphine"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.75d
+		}
+		{
+			dependencies: [
+				"6B6A39375D8C3848"
+				"55DD2A935EB2E541"
+			]
+			id: "64E7A46EB337CEA6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "348E3C84EBEF2F17"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "478A50BFE2CE2AF2"
+				item: "superbwarfare:medical_kit"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.75d
+		}
+	]
+	title: "First Aid"
+}

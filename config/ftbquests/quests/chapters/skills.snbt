@@ -1,0 +1,111 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "skills"
+	group: "1823AA5CAB2A3F54"
+	icon: {
+		Count: 1
+		id: "skilltree:gem"
+		tag: {
+			type: "skilltree:citrine_0"
+		}
+	}
+	id: "5ED80876CA052535"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "06C422B23022126A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24788F482237E706"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "09ABA5C3BE76772B"
+				item: {
+					Count: 1
+					id: "skilltree:gem"
+					tag: {
+						type: "skilltree:citrine_0"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "53EB5F978567DEE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32DD5ED5038A4586"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3AA1E38681621D8F"
+				item: "skilltree:simple_necklace"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "64894A4424756D98"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E28A95B6E41491E"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6846C99A61F55FD2"
+				item: {
+					Count: 1
+					id: "skilltree:quiver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "55854FD3804DB402"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FCD904A2D1D7C49"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3C195130ED09869A"
+				item: "skilltree:iron_ring"
+				type: "item"
+			}]
+			x: 1.25d
+			y: 1.0d
+		}
+		{
+			id: "392615AFEF020468"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C0E017D2942FFF4"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1D1FFB3F01C79D10"
+				item: "skilltree:wisdom_scroll"
+				type: "item"
+			}]
+			x: 2.75d
+			y: 1.0d
+		}
+	]
+	title: "Skills"
+}

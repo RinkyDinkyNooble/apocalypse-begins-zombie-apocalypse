@@ -1,0 +1,86 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "100_days"
+	group: "1823AA5CAB2A3F54"
+	icon: "sereneseasons:calendar"
+	id: "066A85F5AF55D117"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0129695E4277ADFB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6ADB1A7EC4D6A559"
+				table_id: 2496970493152701802L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "sereneseasons:calendar"
+				id: "5D2E572A3340B2EF"
+				title: "Survive 10 Days"
+				type: "custom"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0129695E4277ADFB"]
+			id: "244A838BF46E59B6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C8730629D142BA8"
+				table_id: 2496970493152701802L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "sereneseasons:calendar"
+				id: "5395A4BD3F07B888"
+				title: "Survive 25 Days"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["244A838BF46E59B6"]
+			id: "24D978E6C95CF3E8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3AE9C24D71EE5ADE"
+				table_id: 2496970493152701802L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: "sereneseasons:calendar"
+				id: "3972C65251DF8960"
+				title: "Survive 50 Days"
+				type: "custom"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["24D978E6C95CF3E8"]
+			id: "5011B1919FD48ECB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65AD066730DE99AC"
+				table_id: 2496970493152701802L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				icon: "sereneseasons:calendar"
+				id: "41256DF21C3B060E"
+				title: "Survive 100 Days"
+				type: "custom"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+	]
+	title: "100 Days"
+}

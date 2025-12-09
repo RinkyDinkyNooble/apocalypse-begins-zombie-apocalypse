@@ -1,0 +1,103 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "extra_lives"
+	group: "161D2C39EA3460F0"
+	icon: "sync:sync_core"
+	id: "518E455F8A6A8458"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "69D1C32F6BF9D07A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "066EB653475C3CA8"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "003D80229419A10D"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1A367CC51DF04B15"
+				"69D1C32F6BF9D07A"
+			]
+			id: "2F8980EB65CACBCA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60DD16BE59B48400"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0D332AD26D5621E4"
+				item: "sync:sync_core"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.75d
+		}
+		{
+			id: "1A367CC51DF04B15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1045F02E1D9FE520"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "55D5EBA653DFB2AD"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2F8980EB65CACBCA"]
+			id: "3060AA42DEA8C951"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A5F9E0111CDADDD"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "0A5E16DFA5A57177"
+				item: "sync:shell_storage"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2F8980EB65CACBCA"]
+			id: "329DEB283A8B86F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BDC7FBE05D9424D"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "72761809E6EDE8BE"
+				item: "sync:shell_constructor"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+	]
+	title: "Cloning"
+}

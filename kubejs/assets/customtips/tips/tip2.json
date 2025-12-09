@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Technology",
+    "color": "blue",
+    "bold": true
+  },
+  "tip": {
+    "text": "You will need a nuclear reactor, steam engine, and a generator coil for large amounts of electricity."
+  }
+}

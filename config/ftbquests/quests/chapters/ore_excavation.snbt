@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "ore_excavation"
+	group: "161D2C39EA3460F0"
+	icon: "createoreexcavation:drill"
+	id: "3F3A32802A300448"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"00A96E644FE6B411"
+				"31AB68AFD3B15EF3"
+			]
+			id: "621604440325DECC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22037DA1E7C242D0"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "2A921BFB26137981"
+				item: "createoreexcavation:drilling_machine"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.75d
+		}
+		{
+			id: "00A96E644FE6B411"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7ECEBF70E8F023CD"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "23F7BABAB3823F63"
+				item: "createoreexcavation:vein_finder"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "31AB68AFD3B15EF3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "392AB4A5CF76E49D"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "325A0773BC41D24F"
+				item: "createoreexcavation:drill"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+	]
+	title: "Ore Excavation"
+}

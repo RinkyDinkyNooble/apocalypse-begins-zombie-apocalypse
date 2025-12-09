@@ -1,0 +1,462 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "power_generation"
+	group: "161D2C39EA3460F0"
+	icon: "create_new_age:generator_coil"
+	id: "00862C03C5B8FBE7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "396CABB244876953"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02CA2FEBAD0CBB3A"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5CD2DF6C8D86F5EA"
+				item: "create:wrench"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "723F98CC5FCF39D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B3C515475B47350"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1BEBD98E1B82E116"
+				item: "create:goggles"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5065C4C0CCFA3784"]
+			id: "50CC542740A36A0B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "14AEBF85E23911A1"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3656A3E77B8D4F09"
+				item: "create:steam_engine"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6F444F83BDF1A551"
+				"4DCDF2B6E17D04C3"
+			]
+			id: "69D138F2143F2EEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75257C5A1D6D28D8"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "195CAE968383ED75"
+				item: "create_new_age:heater"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3AC51891A3208516"]
+			id: "18ABCC8E6FB0FBFF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "181A5FB27FFE0E86"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "342AA4244A5899C8"
+				item: "create_new_age:heat_pipe"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["276F593095D38E3D"]
+			id: "5065C4C0CCFA3784"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "511075F6F4463DDC"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2680CFF224BB2263"
+				item: "create:fluid_tank"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3AC51891A3208516"]
+			id: "5794A5606B67EF2F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51F0A942688AE6D2"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4E9815BC7CF05D22"
+				item: "create_new_age:heat_pump"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"5794A5606B67EF2F"
+				"18ABCC8E6FB0FBFF"
+			]
+			id: "4DCDF2B6E17D04C3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "195146B5462E23C2"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "02852F899779670B"
+				item: "create_new_age:basic_solar_heating_plate"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["213B420A2607DF27"]
+			id: "6F444F83BDF1A551"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57670392F3904567"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "516E38F3FF38DD80"
+				item: "create_new_age:overcharged_iron_sheet"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["020F78A4B79848E0"]
+			id: "213B420A2607DF27"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B0DE79BF1E61A0D"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "285F8AB46FE06264"
+				item: "create_new_age:energiser_t1"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4F848F2163E9EBEC"]
+			id: "096179F88DA62E2D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1ABE2443AA620F69"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "573B2EA4582F5737"
+				item: "create_new_age:nuclear_fuel"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["795A9CDC15FFED9D"]
+			id: "02FCD67A80191266"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "39852DDAB3F80C10"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "26F50AC0A01D1534"
+				item: "create_new_age:reactor_casing"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["02FCD67A80191266"]
+			id: "64C601CEF513F4F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33345191C0906BF7"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0B7ACB31DEAFF5D1"
+				item: "create_new_age:reactor_fuel_acceptor"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["02FCD67A80191266"]
+			id: "3EF68E86D7B492CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "01B07CF84CFDB3AD"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5B0607E6C3B82A75"
+				item: "create_new_age:reactor_heat_vent"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			id: "795A9CDC15FFED9D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72EE66094E087D6E"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5F22A59BA62D4A14"
+				item: "create_new_age:magnetite_block"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"282143877421E00B"
+				"50CC542740A36A0B"
+				"64C601CEF513F4F1"
+				"3EF68E86D7B492CE"
+				"55D8F77B0CBC2101"
+				"69D138F2143F2EEC"
+			]
+			id: "0AF8D77212B5FF7E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44F820857F606FB9"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "5ABBD885CC13128B"
+				item: "create_new_age:generator_coil"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["096179F88DA62E2D"]
+			id: "282143877421E00B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1EDD8558EAEC0CA0"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "51371B3E5B7C202E"
+				item: "create_new_age:carbon_brushes"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			id: "5DA8E0BB90F91B1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "623CDD7BF5C4FAA4"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "022A780CD9530518"
+				item: "create_new_age:copper_wire"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5DA8E0BB90F91B1A"]
+			id: "020F78A4B79848E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38DD8AE749BB68AD"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "60705C6184B0959E"
+				item: "create_new_age:electrical_connector"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"723F98CC5FCF39D0"
+				"396CABB244876953"
+			]
+			id: "276F593095D38E3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "286CE7C0777B7388"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5E517C83D12A189F"
+				item: "create:mechanical_pump"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			id: "3AC51891A3208516"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2309F534FB886A2A"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7CEF4A4225884166"
+				item: "create_new_age:thorium"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "4F848F2163E9EBEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42D5526137AEE225"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			subtitle: "To prevent radiation"
+			tasks: [
+				{
+					id: "6CCD9A0235504757"
+					item: {
+						Count: 1
+						id: "minecraft:leather_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "02CF46860BC8F42C"
+					item: {
+						Count: 1
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E9A289547CE623A"
+					item: {
+						Count: 1
+						id: "minecraft:leather_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D7C881E32118DC2"
+					item: {
+						Count: 1
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Leather Armor"
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"02FCD67A80191266"
+				"096179F88DA62E2D"
+			]
+			id: "55D8F77B0CBC2101"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CFFE66609280BF0"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "49F4E150A158C158"
+				item: "create_new_age:reactor_rod"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+	]
+	title: "Power Generation"
+}

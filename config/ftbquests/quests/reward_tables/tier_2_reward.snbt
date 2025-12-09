@@ -1,0 +1,7 @@
+{
+	id: "654A51DDB3BAFB26"
+	loot_size: 1
+	order_index: 1
+	rewards: [{ count: 180, item: "create:experience_nugget" }]
+	title: "Tier 2 Reward"
+}

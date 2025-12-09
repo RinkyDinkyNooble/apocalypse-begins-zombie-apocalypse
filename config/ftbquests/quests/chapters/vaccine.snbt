@@ -1,0 +1,165 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "vaccine"
+	group: "1823AA5CAB2A3F54"
+	icon: "cure:vaccine"
+	id: "6064F7C1F70A0F7D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"5FF03196B3A0D1AE"
+				"4D862271800A9ED0"
+			]
+			id: "1435B8E30C0CFD37"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "71FC7AAF8F4F3C3C"
+				table_id: 2496970493152701802L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "529D8AA6662DAF02"
+				item: "cure:vaccine"
+				type: "item"
+			}]
+			title: "Vaccine"
+			x: 2.0d
+			y: -2.75d
+		}
+		{
+			dependencies: [
+				"2358C282E36D5177"
+				"3060DBF0B40CDF1A"
+				"6F444F83BDF1A551"
+			]
+			id: "5FF03196B3A0D1AE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1009357FCBE4797C"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3946926C46F0E667"
+				item: "cure:syringe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"29A6E7C83B0A144D"
+				"1ED64C283559E0BE"
+			]
+			id: "4D862271800A9ED0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D7E2825EB631B62"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1AADE8AF1C29F763"
+				item: "cure:fox_weed_paste"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.75d
+		}
+		{
+			id: "29A6E7C83B0A144D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D3C501D254CEA17"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3297454532C388D9"
+				item: "cure:fox_weed"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0B27E662D69CAC8A"]
+			id: "1ED64C283559E0BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "179EE16903BEAA49"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "24B0992F48A80E3E"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:strong_regeneration"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "0B27E662D69CAC8A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2289FEB6D805383C"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			subtitle: "Found by exploring"
+			tasks: [{
+				id: "73FC06BBA4A95EAF"
+				item: "minecraft:ghast_tear"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			id: "3060DBF0B40CDF1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7455F5CF8B923134"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "383FD4FD5F8039C4"
+				item: "create_crush_everything:netherite_shard"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "2358C282E36D5177"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A695BF3D6EE4634"
+				table_id: 7298736158752308006L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "583B2019C7350E2F"
+				item: "minecraft:nether_brick"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+	]
+	title: "Vaccine"
+}

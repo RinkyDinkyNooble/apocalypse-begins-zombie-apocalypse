@@ -1,0 +1,8 @@
+#Fri Sep 26 09:58:34 EDT 2025
+shadowDistance=64.0
+SHADOW_FILTER=false
+REFLECTION=0
+shadowMapResolution=128
+SHADOW_COLOR=false
+ADVANCED_MATERIALS=false
+SELF_SHADOW=false

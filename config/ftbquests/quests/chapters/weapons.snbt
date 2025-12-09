@@ -1,0 +1,160 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "weapons"
+	group: "161D2C39EA3460F0"
+	icon: {
+		Count: 1
+		id: "superbwarfare:m_1911"
+		tag: {
+			Attachments: { }
+			GunData: { }
+			Perks: {
+				Ammo: { }
+				Damage: { }
+				Functional: { }
+			}
+		}
+	}
+	id: "5F02FAE023B903F1"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3731653E9CC9128E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "720CC9BD2E8F0080"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/common_blueprint"
+				criterion: ""
+				id: "4391FD532100B007"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "7095F83E543980FE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09BC71EE86738861"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/rare_blueprint"
+				criterion: ""
+				id: "51452FF92DB302EA"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "02447C5C539567C0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A506A68649129E8"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/epic_blueprint"
+				criterion: ""
+				id: "62D058F95390EC25"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "72B418606C422A0B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5649C6CD941754D2"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/legendary_blueprint"
+				criterion: ""
+				id: "33F5DC7FE1B303BB"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			id: "5C09B1C87B2CF696"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06469DFF27082B90"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/hammer"
+				criterion: ""
+				id: "10BC227DD8ABC3E5"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "678F4A4AFD68E829"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0C06601C373C4504"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/physics_excalibur"
+				criterion: ""
+				id: "28B1DF52FAF7829C"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "57D2135A283615D9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1595325BB57359FC"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "superbwarfare:main/clean_energy"
+				criterion: ""
+				id: "3587ECD0700E1DD8"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "1F5CC728748D0F12"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2ED04249B611F121"
+				table_id: 5552082320837219306L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6BED2640723C0143"
+				item: "superbwarfare:vehicle_assembling_table"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+	]
+	title: "Warfare"
+}
