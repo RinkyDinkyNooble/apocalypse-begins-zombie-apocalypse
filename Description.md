@@ -95,18 +95,39 @@ This modpack does contain a few bugs. Bugs are patched according to their severi
 6. 🟡 Using shaders while rendering Superb Warfare entities causes a performance dip, noticeable on lower end PCs.
 7. 🟡 Backpacks have a GUI formatting mistake where upgrade slots go.
 
+---
+
 ### 🛠️ Development Plan
 
 This plan will be kept updated delivery dates will be added if it can be guaranteed.
 
-| Version | Date (Y/M/D) | Notes |
-| :-: | :-: | :- |
-| 2.2.1 | 2026/03/17 | Current Latest Version |
-| 2.2.2 | - | Graphical Upgrades [**Miscellaneous**] <br> - Shaders & pre-configured profiles <br> - Resource packs <br> - Mods that enhance the immersion and / or visuals |
-| 2.2.3 | - | QoL Upgrades [**Miscellaneous**] <br> - Mods that enhance convenience |
-| 2.2.4 | - | Technical Overhaul [**Stability**] <br> - Bug fixes <br> - Script re-write / overhaul <br> - Configuration modifications & balancing changes |
-| 2.2.5 | - | VR Support [**Compatibility**] <br> - Try adding VR support <br> - Add gamepad, pre-configured keybinds <br> |
-| 3.0.0 | - | Game Overhaul [**Gameplay**] <br> - New technology mods <br> - Perhaps space travel with space cities & ruins <br> - New phase after apocalypse using Game Stages <br> - New overworld cities <br> - Underground / railway support - <br> - New & refined progression using NPC Quests (instead of FTB) <br> - New NPC's of all kinds <br> - Structure types like bandit hideouts to raid with custom NPC bandits <br> - New parasite / mob threat after 100 Days <br> - Skill tree overhaul |
+| Version | Date (Y/M/D) | Notes                                                     |
+|--------:|:------------:|-----------------------------------------------------------|
+|  2.2.1  |  2026/03/17  | **Current Latest Version**                                |
+|  2.2.2  |      -       | **Graphical Upgrades [Miscellaneous]**                    |
+|         |              | - Shaders & pre-configured profiles                       |
+|         |              | - Resource packs                                          |
+|         |              | - Mods that enhance immersion and/or visuals              |
+|  2.2.3  |      -       | **QoL Upgrades [Miscellaneous]**                          |
+|         |              | - Mods that enhance convenience                           |
+|  2.2.4  |      -       | **Technical Overhaul [Stability]**                        |
+|         |              | - Bug fixes                                               |
+|         |              | - Script rewrite / overhaul                               |
+|         |              | - Configuration modifications & balancing changes         |
+|  2.2.5  |      -       | **VR Support [Compatibility]**                            |
+|         |              | - Attempt VR support                                      |
+|         |              | - Add gamepad support with pre-configured keybinds        |
+|  3.0.0  |      -       | **Game Overhaul [Gameplay]**                              |
+|         |              | - New technology mods                                     |
+|         |              | - Potential space travel with space cities & ruins        |
+|         |              | - New post-apocalypse phase using Game Stages             |
+|         |              | - New overworld cities                                    |
+|         |              | - Underground / railway systems                           |
+|         |              | - Refined progression using NPC quests (instead of FTB)   |
+|         |              | - New NPCs of various types                               |
+|         |              | - Bandit hideouts and similar raid-able structures        |
+|         |              | - New parasite/mob threat after 100 days                  |
+|         |              | - Skill tree overhaul                                     |
 
 ---
 
