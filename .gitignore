@@ -1,4 +1,4 @@
-mods/*.jar
-shaderpacks/*.zip
-resourcepacks/*.zip
+*.jar
+*.zip
+*.zip
 *.ogg
