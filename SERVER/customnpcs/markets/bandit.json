@@ -1,0 +1,426 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "RCount": 1L,
+                "Slot": 0b,
+                "id": "superbwarfare:glock_17",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 83L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-1674290236,2079215314,-1894556596,594289659],
+                        "Ammo": 17
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 1b,
+                "id": "superbwarfare:m_4",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 93L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-1408933641,1607290092,-1243439784,2027740876],
+                        "Ammo": 30
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 2b,
+                "id": "superbwarfare:m_870",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 102L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;351341328,1451576972,-1841465547,-71270119],
+                        "Ammo": 8
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 3b,
+                "id": "superbwarfare:mp_443",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 84L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-896269812,-436518269,-1517521359,-1840009063],
+                        "Ammo": 17
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 4b,
+                "id": "superbwarfare:hk_416",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 94L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;1141764114,1259356850,-2004327551,688750815],
+                        "Ammo": 30
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 5b,
+                "id": "superbwarfare:m_2_hb",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 100L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;502653347,765415175,-1787517758,499452303],
+                        "Ammo": 100
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 6b,
+                "id": "superbwarfare:m_1911",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 85L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;192733780,-2002367440,-1649223741,2019381272],
+                        "Ammo": 7
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 7b,
+                "id": "superbwarfare:ak_12",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 91L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;2002462736,-1784460432,-1474592152,-472227632],
+                        "Ammo": 30
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 8b,
+                "id": "superbwarfare:mosin_nagant",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 97L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;1044460558,-974565397,-2048851006,2003947296],
+                        "Ammo": 5
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 9b,
+                "id": "superbwarfare:homemade_shotgun",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 86L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;400548735,778784063,-2011846499,687633949],
+                        "Ammo": 2
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 10b,
+                "id": "superbwarfare:qbz_95",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 95L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-2143013032,998655329,-1602935435,-1782593019],
+                        "Ammo": 30
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 11b,
+                "id": "superbwarfare:k_98",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 96L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-37659419,-1024045947,-1253450264,-1683325291],
+                        "Ammo": 5
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 12b,
+                "id": "superbwarfare:marlin",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 87L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;1818482903,157108623,-1908916139,314398346],
+                        "Ammo": 8
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 13b,
+                "id": "superbwarfare:ak_47",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 90L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;148053975,-802731042,-1787787438,-1313957096],
+                        "Ammo": 30
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 14b,
+                "id": "superbwarfare:m_79",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 99L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;695199296,10568191,-1168124133,-1085376214],
+                        "Ammo": 1
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 15b,
+                "id": "superbwarfare:mp_5",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 80L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;847362697,-1990964760,-1593437824,-575006778],
+                        "Ammo": 30
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 16b,
+                "id": "superbwarfare:sks",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 92L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-1499588270,-678215376,-1955244201,31239400],
+                        "Ammo": 20
+                    }
+                },
+                "Count": 1b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 17b,
+                "id": "superbwarfare:rpg",
+                "tag": {
+                    "Perks": {
+                    },
+                    "GeckoLibID": 101L,
+                    "Attachments": {
+                    },
+                    "GunData": {
+                        "UUID": [I;-14792352,-2120465294,-2078511041,552898636],
+                        "Ammo": 1
+                    }
+                },
+                "Count": 1b
+            }
+        ]
+    },
+    "TraderIgnoreNBT": 1b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "RCount": 2L,
+                "Slot": 0b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 2b
+            },
+            {
+                "RCount": 14L,
+                "Slot": 1b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 14b
+            },
+            {
+                "RCount": 23L,
+                "Slot": 2b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 23b
+            },
+            {
+                "RCount": 2L,
+                "Slot": 3b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 2b
+            },
+            {
+                "RCount": 15L,
+                "Slot": 4b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 15b
+            },
+            {
+                "RCount": 24L,
+                "Slot": 5b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 24b
+            },
+            {
+                "RCount": 4L,
+                "Slot": 6b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 4b
+            },
+            {
+                "RCount": 16L,
+                "Slot": 7b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 16b
+            },
+            {
+                "RCount": 25L,
+                "Slot": 8b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 25b
+            },
+            {
+                "RCount": 1L,
+                "Slot": 9b,
+                "id": "saros__money_mod:euro_200",
+                "Count": 1b
+            },
+            {
+                "RCount": 18L,
+                "Slot": 10b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 18b
+            },
+            {
+                "RCount": 26L,
+                "Slot": 11b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 26b
+            },
+            {
+                "RCount": 8L,
+                "Slot": 12b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 8b
+            },
+            {
+                "RCount": 20L,
+                "Slot": 13b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 20b
+            },
+            {
+                "RCount": 30L,
+                "Slot": 14b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 30b
+            },
+            {
+                "RCount": 10L,
+                "Slot": 15b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 10b
+            },
+            {
+                "RCount": 22L,
+                "Slot": 16b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 22b
+            },
+            {
+                "RCount": 35L,
+                "Slot": 17b,
+                "id": "saros__money_mod:euro_500",
+                "Count": 35b
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b
+}

@@ -1,0 +1,18 @@
+villagerTrades.removeAllTrades(<profession:minecraft:farmer>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:armorer>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:butcher>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:cleric>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:fisherman>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:fletcher>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:leatherworker>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:librarian>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:mason>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:shepherd>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:toolsmith>, 1);
+villagerTrades.removeAllTrades(<profession:minecraft:weaponsmith>, 1);
+villagerTrades.removeAllTrades(<profession:infectious:crafter>, 1);
+villagerTrades.removeAllTrades(<profession:superbwarfare:armory>, 1);
+villagerTrades.removeAllTrades(<profession:infectious:undead_collector>, 1);
+villagerTrades.removeAllTrades(<profession:saros__money_mod:banker>, 1);
+villagerTrades.removeAllWanderingTrades(1);
+villagerTrades.removeAllWanderingTrades(2);

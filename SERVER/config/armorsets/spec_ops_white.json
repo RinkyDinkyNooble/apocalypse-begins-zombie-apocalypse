@@ -1,0 +1,34 @@
+{
+    "armorSetName": "spec_ops_white",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "zrikons_military_armor:spec_ops_full_winter_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "zrikons_military_armor:spec_ops_full_winter_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "zrikons_military_armor:spec_ops_full_winter_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "zrikons_military_armor:spec_ops_full_winter_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "effect",
+            "name": "cold_sweat:warmth",
+            "value": 1.0,
+            "description": "Gives a warming effect for cooler environments",
+            "interactionType": "self",
+            "interactionDuration": 60,
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": false,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

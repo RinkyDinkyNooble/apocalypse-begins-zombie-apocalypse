@@ -1,7 +1,8 @@
 {
-  "replace": false,
-  "values": [
-    "minecraft:golden_apple",
-    "minecraft:enchanted_golden_apple"
-  ]
+    "replace": false,
+    "values": [
+        "cure:vaccine",
+        "marbledsfirstaid:curative_pills",
+        "marbledsfirstaid:panacea_pills"
+    ]
 }

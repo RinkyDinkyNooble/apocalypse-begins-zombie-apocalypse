@@ -23,7 +23,7 @@
 
 	[serverConfig.parties]
 		#Whether the parties part of this mod is enabled.
-		enabled = true
+		enabled = false
 		#The maximum number of members in a party. Existing members are not removed if the limit is reduced.
 		#Range: > 1
 		maxPartyMembers = 64
@@ -42,7 +42,7 @@
 
 	[serverConfig.claims]
 		#Whether the claims part of this mod is enabled.
-		enabled = true
+		enabled = false
 		#For how long a player can stay completely inactive on the server until their claims are expired (in hours). This improves performance for servers running for years.
 		#Range: > 1
 		playerClaimsExpirationTime = 8760
@@ -54,7 +54,7 @@
 		#The maximum number of chunks that a player can claim. Additional claims can be configured in the player config.
 		#This value can be overridden with a player permission.
 		#Range: > 0
-		maxPlayerClaims = 64
+		maxPlayerClaims = 16
 		#The maximum number of claimed chunks that a player can forceload. Additional forceloads can be configured in the player config.
 		#This value can be overridden with a player permission.
 		#Range: > 0

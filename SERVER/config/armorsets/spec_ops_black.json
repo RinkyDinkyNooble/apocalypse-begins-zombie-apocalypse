@@ -1,0 +1,36 @@
+{
+    "armorSetName": "spec_ops_black",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "zrikons_military_armor:military_armor_spec_ops_black_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "zrikons_military_armor:military_armor_spec_ops_black_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "zrikons_military_armor:military_armor_spec_ops_black_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "zrikons_military_armor:military_armor_spec_ops_black_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "puffish_attributes:stealth",
+            "value": 5.0,
+            "modifierUUID": "f8b841e2-160c-42f8-ada5-d7853dac6a4f",
+            "description": "+5 Stealth",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "interactionDuration": 60,
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": false,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

@@ -1,10 +1,4 @@
 {
-    "meta": [
-        {
-            "key": "support",
-            "char": "v"
-        }
-    ],
     "xsize": 16,
     "zsize": 16,
     "palette": {
@@ -15,85 +9,38 @@
             },
             {
                 "char": "α",
-                "block": "minecraft:smooth_stone"
+                "block": "betterblockz:ironslate_blockz_1"
             },
             {
                 "char": "β",
-                "block": "minecraft:gray_concrete"
+                "block": "betterblockz:cyberlight_blockz_0[lit=true]"
             },
             {
                 "char": "γ",
-                "block": "minecraft:white_concrete"
-            },
-            {
-                "char": "δ",
-                "block": "minecraft:stone_bricks"
-            },
-            {
-                "char": "ε",
-                "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
-            },
-            {
-                "char": "ζ",
-                "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
-            },
-            {
-                "char": "η",
-                "block": "minecraft:sea_lantern"
-            },
-            {
-                "char": "θ",
-                "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
-            },
-            {
-                "char": "ι",
-                "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
-            },
-            {
-                "char": "κ",
-                "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+                "block": "betterblockz:eclipse_blockz_0"
             }
         ]
     },
     "slices": [
         [
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv",
-            "vvvvvvvvvvvvvvvv"
-        ],
-        [
-            "αααααααααααααααα",
             "αααααααααααααααα",
             "ββββββββββββββββ",
-            "ββββββββββββββββ",
-            "βγγββγγββγγββγγβ",
-            "ββββββββββββββββ",
-            "ββββββββββββββββ",
-            "αααααααααααααααα",
-            "αααααααααααααααα",
-            "ββββββββββββββββ",
-            "ββββββββββββββββ",
-            "βγγββγγββγγββγγβ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
             "ββββββββββββββββ",
             "ββββββββββββββββ",
-            "αααααααααααααααα",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "γγγγγγγγγγγγγγγγ",
+            "ββββββββββββββββ",
             "αααααααααααααααα"
         ],
         [
-            "δεεεεεεδδεεεεεεδ",
             "                ",
             "                ",
             "                ",
@@ -108,10 +55,10 @@
             "                ",
             "                ",
             "                ",
-            "δεεεεεεδδεεεεεεδ"
+            "                ",
+            "                "
         ],
         [
-            "        δ       ",
             "                ",
             "                ",
             "                ",
@@ -126,10 +73,10 @@
             "                ",
             "                ",
             "                ",
-            "        δ       "
+            "                ",
+            "                "
         ],
         [
-            "        ζ       ",
             "                ",
             "                ",
             "                ",
@@ -144,10 +91,10 @@
             "                ",
             "                ",
             "                ",
-            "        ζ       "
+            "                ",
+            "                "
         ],
         [
-            "        ζ       ",
             "                ",
             "                ",
             "                ",
@@ -162,10 +109,10 @@
             "                ",
             "                ",
             "                ",
-            "        ζ       "
+            "                ",
+            "                "
         ],
         [
-            "        ζ       ",
             "                ",
             "                ",
             "                ",
@@ -180,79 +127,8 @@
             "                ",
             "                ",
             "                ",
-            "        ζ       "
-        ],
-        [
-            "        ζ       ",
             "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "        ζ       "
-        ],
-        [
-            "        ζ       ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "        ζ       "
-        ],
-        [
-            "        δ       ",
-            "                ",
-            "        η       ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "        η       ",
-            "                ",
-            "        δ       "
-        ],
-        [
-            "        θ       ",
-            "        ι       ",
-            "        κ       ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "                ",
-            "        θ       ",
-            "        ι       ",
-            "        κ       "
+            "                "
         ]
     ]
 }

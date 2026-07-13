@@ -1,0 +1,438 @@
+[
+    {
+        "entity": "minecraft:zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:bucket_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:pylon_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:door_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:iron_door_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:therod",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:thebidy",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:bomber",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:thepregnant",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:beehive_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_spiter",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:maggot_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:claw_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:pumpkin_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:barrel_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:mc_donalds_worker_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_cook",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:thesmoker",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:clogger",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:bouncer_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:disco_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_dancer",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:theheavy",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_head",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:crawling_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:armless_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:bodyless_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:headless_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:blind_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_doctor",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:psycho_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:football_player_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_climber",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_runner",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:baseball_bat_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:firework_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:thelurker",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_boxer",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:pool_tube_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_diver",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:deep_sea_diver_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_bear",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_bird",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_bird_flying",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_boar",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_spider",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_wolf",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:chained_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_police",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:swat_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_prisoner",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:fire_fighter_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:security_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_painter",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:ancient_zombie_boss",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombified_rex",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:mummy",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_hitler",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_archer",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_horseman",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_horseman_no_horse",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_warrior",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:thebeartamer",
+        "chance": 0.95
+    },
+    {
+        "entity": "undead_revamp2:thewolf",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:tower_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_on_stelts",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:balloon_zombie_no_balloon",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_clown",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:angry_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:infectious_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:fat_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:old_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_girl",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:screamer",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:sleepy_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:brain_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_screamer",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:franklin_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_batman",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_astronaut",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:muscular_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:big_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:giant_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_farmer",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_fisherman",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:beekeeper_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_lumberjack",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_miner",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:construction_worker_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:robotic_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:mecha_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_scientist",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_bomber",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:mutant_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:acid_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:burned_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:burning_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:frozen_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:fungal_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:golden_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:hazmat_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:muddy_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:radioactive_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:spore_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:withered_zombie",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_breeder",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_soldier",
+        "chance": 0.95
+    },
+    {
+        "entity": "infectious:zombie_agent",
+        "chance": 0.95
+    }
+]

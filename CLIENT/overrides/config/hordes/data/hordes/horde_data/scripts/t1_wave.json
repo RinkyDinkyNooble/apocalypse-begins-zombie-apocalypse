@@ -1,0 +1,50 @@
+[
+    {
+        "function": "hordes:multiple",
+        "value": [
+            {
+                "function": "hordes:set_spawntable",
+                "value": [
+                    "hordes:t1_medium"
+                ],
+                "conditions": [
+                    {
+                        "name": "hordes:and",
+                        "value": [
+                            {
+                                "name": "hordes:biome",
+                                "value": "minecraft:plains"
+                            },
+                            {
+                                "name": "hordes:game_difficulty",
+                                "value": "medium"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "function": "hordes:set_spawntable",
+                "value": [
+                    "hordes:t1_easy"
+                ],
+                "conditions": [
+                    {
+                        "name": "hordes:and",
+                        "value": [
+                            {
+                                "name": "hordes:biome",
+                                "value": "minecraft:plains"
+                            },
+                            {
+                                "name": "hordes:game_difficulty",
+                                "value": "easy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "conditions": []
+    }
+]

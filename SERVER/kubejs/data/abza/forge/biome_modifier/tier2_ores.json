@@ -1,0 +1,14 @@
+{
+    "type": "forge:add_features",
+    "biomes": "#abza:tier2_ores",
+    "features": [
+        "abza:custom_emerald_ore",
+        "abza:custom_lapis_ore",
+        "abza:custom_diamond_ore",
+        "abza:custom_tin_ore",
+        "abza:custom_scheelite_ore",
+        "abza:custom_lead_ore",
+        "abza:custom_silver_ore"
+    ],
+    "step": "underground_ores"
+}

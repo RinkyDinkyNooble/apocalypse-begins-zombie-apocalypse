@@ -1,0 +1,40 @@
+{
+    "armorSetName": "hazmat_suit",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "infectious:hazmat_suit_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "infectious:hazmat_suit_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "infectious:hazmat_suit_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "infectious:hazmat_suit_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "effect",
+            "name": "hordes:infected",
+            "description": "Prevents infection from zombies",
+            "interactionType": "immunity",
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": true,
+            "percentageChance": 100.0
+        },
+        {
+            "type": "effect",
+            "name": "infectious:infection",
+            "interactionType": "immunity",
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": true,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

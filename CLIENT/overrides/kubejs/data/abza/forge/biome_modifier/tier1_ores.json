@@ -1,0 +1,16 @@
+{
+    "type": "forge:add_features",
+    "biomes": "#abza:tier1_ores",
+    "features": [
+        "abza:custom_coal_ore",
+        "abza:custom_copper_ore",
+        "abza:custom_iron_ore",
+        "abza:custom_gold_ore",
+        "abza:custom_redstone_ore",
+        "abza:custom_osmium_ore",
+        "abza:custom_glowstone_ore",
+        "abza:custom_salt_ore",
+        "abza:custom_amethyst_ore"
+    ],
+    "step": "underground_ores"
+}

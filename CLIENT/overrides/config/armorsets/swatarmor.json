@@ -1,0 +1,36 @@
+{
+    "armorSetName": "swatarmor",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "infectious:swatarmor_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "infectious:swatarmor_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "infectious:swatarmor_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "infectious:swatarmor_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "minecraft:generic.armor",
+            "value": 4.0,
+            "modifierUUID": "d29a391c-14d4-4acb-96d2-0aa890b4fdf5",
+            "description": "+4 Armor",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "interactionDuration": 60,
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": false,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

@@ -1,0 +1,100 @@
+{
+    "filler": "~",
+    "rubble": "}",
+    "allowDoors": false,
+    "mincellars": 1,
+    "maxcellars": 1,
+    "minfloors": 9,
+    "maxfloors": 13,
+    "parts": [
+        {
+            "cellar": true,
+            "ground": false,
+            "top": false,
+            "part": "building001_cellar0"
+        },
+        {
+            "cellar": false,
+            "ground": true,
+            "top": false,
+            "floor": 0,
+            "part": "building001_ground"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 1,
+            "part": "building001_floor1"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 2,
+            "part": "building001_floor2"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 3,
+            "part": "building001_floor3"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 4,
+            "part": "building001_floor4"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 5,
+            "part": "building001_floor5"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 6,
+            "part": "building001_floor6"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 7,
+            "part": "building001_floor7"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 8,
+            "part": "building001_floor8"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "range": "9,12",
+            "part": "building001_floor4"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "range": "9,12",
+            "part": "building001_floor5"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": true,
+            "part": "building001_top"
+        }
+    ]
+}

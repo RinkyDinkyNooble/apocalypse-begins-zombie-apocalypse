@@ -33,17 +33,17 @@ highContrast:false
 gamma:0.5
 renderDistance:5
 simulationDistance:5
-entityDistanceScaling:1.0
+entityDistanceScaling:0.5
 guiScale:0
 particles:2
-maxFps:120
+maxFps:60
 graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","fabric","hordes-config","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/TZP_1.20.1_2.7.zip","clientsort:clientsort-dark-mode","black_icons"]
-incompatibleResourcePacks:["hordes-config"]
+resourcePacks:["file/TZP_1.20.1_2.7.zip","file/Beautiful Enchanted Books - MC 1.20.1 - 8.0.0.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -85,13 +85,13 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:1.0
-soundCategory_music:0.3
+soundCategory_music:0.4
 soundCategory_record:0.5
 soundCategory_weather:1.0
 soundCategory_block:0.5
 soundCategory_hostile:0.25
 soundCategory_neutral:0.3
-soundCategory_player:0.50
+soundCategory_player:1.0
 soundCategory_ambient:0.3
 soundCategory_voice:1.0
 modelPart_cape:true

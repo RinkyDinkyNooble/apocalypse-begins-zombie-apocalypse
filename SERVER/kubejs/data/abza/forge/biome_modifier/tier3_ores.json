@@ -1,0 +1,13 @@
+{
+    "type": "forge:add_features",
+    "biomes": "#abza:tier3_ores",
+    "features": [
+        "abza:custom_ancient_debris_ore",
+        "abza:custom_netherrack_ore",
+        "abza:custom_soul_sand_ore",
+        "abza:custom_quartz_ore",
+        "abza:custom_fluorite_ore",
+        "abza:custom_uranium_ore"
+    ],
+    "step": "underground_ores"
+}

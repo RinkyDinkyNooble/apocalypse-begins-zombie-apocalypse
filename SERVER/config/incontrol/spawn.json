@@ -1,0 +1,67 @@
+[
+    {
+        "mod": "minecraft",
+        "biometags": "abza:tier1",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mod": "minecraft",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mod": "infectious",
+        "biometags": "abza:tier1",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mod": "infectious",
+        "biometags": "abza:tier1",
+        "result": "deny"
+    },
+    {
+        "mod": "infectious",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mod": "undead_revamp2",
+        "biometags": "abza:tier1",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mod": "undead_revamp2",
+        "biometags": "abza:tier1",
+        "result": "deny"
+    },
+    {
+        "mod": "undead_revamp2",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mod": "phayriosisreborn",
+        "biometags": "abza:tier2",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mod": "phayriosisreborn",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mod": "spore",
+        "biometags": "abza:tier3",
+        "result": "allow",
+        "when": "onjoin"
+    },
+    {
+        "mod": "spore",
+        "result": "deny",
+        "when": "onjoin"
+    }
+]

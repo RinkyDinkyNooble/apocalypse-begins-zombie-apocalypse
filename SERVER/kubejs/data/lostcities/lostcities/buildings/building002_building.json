@@ -1,0 +1,43 @@
+{
+    "filler": "~",
+    "rubble": "}",
+    "allowDoors": false,
+    "parts": [
+        {
+            "cellar": true,
+            "ground": false,
+            "top": false,
+            "part": "building002_cellar0"
+        },
+        {
+            "cellar": false,
+            "ground": true,
+            "top": false,
+            "part": "building002_ground"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "part": "building002_floor1"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "part": "building002_floor2"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "part": "building002_floor3"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": true,
+            "part": "building002_top"
+        }
+    ]
+}

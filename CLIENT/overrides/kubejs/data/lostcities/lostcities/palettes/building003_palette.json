@@ -1,0 +1,629 @@
+{
+    "palette": [
+        {
+            "char": " ",
+            "block": "minecraft:air"
+        },
+        {
+            "char": "¡",
+            "block": "betterblockz:ironslate_blockz_1"
+        },
+        {
+            "char": "¢",
+            "block": "betterblockz:iszm_blockz_1"
+        },
+        {
+            "char": "£",
+            "block": "minecraft:dirt"
+        },
+        {
+            "char": "¤",
+            "block": "spore:lab_slab[type=top,waterlogged=false]"
+        },
+        {
+            "char": "¥",
+            "block": "architecture:lime_render_half_block[facing=north]"
+        },
+        {
+            "char": "¦",
+            "block": "minecraft:deepslate_bricks"
+        },
+        {
+            "char": "§",
+            "block": "lootr:lootr_chest[facing=south,type=single,waterlogged=false]",
+            "loot": "building003_loot"
+        },
+        {
+            "char": "¨",
+            "block": "minecraft:spawner",
+            "mob": "zombie"
+        },
+        {
+            "char": "©",
+            "block": "betterblockz:tintedglass_blockz_3"
+        },
+        {
+            "char": "ª",
+            "block": "mdm:modern_lamp_1[facing=south]"
+        },
+        {
+            "char": "«",
+            "block": "modernfurniture:office_wood_armchair_a[facing=south]"
+        },
+        {
+            "char": "¬",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "®",
+            "block": "modernfurniture:wood_stair_3_a[facing=south]"
+        },
+        {
+            "char": "¯",
+            "block": "modernfurniture:office_wood_armchair_a[facing=east]"
+        },
+        {
+            "char": "°",
+            "block": "mdm:coffee_table_04[facing=east]"
+        },
+        {
+            "char": "±",
+            "block": "modernfurniture:office_wood_armchair_a[facing=west]"
+        },
+        {
+            "char": "²",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:light_gray_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "³",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:franklin_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "´",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:sleepy_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "µ",
+            "block": "betterblockz:cyberlight_blockz_0[lit=true]"
+        },
+        {
+            "char": "¶",
+            "block": "spore:lab_stair[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "·",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_chest[facing=east,type=single,waterlogged=false] building003_chest1",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "¸",
+            "block": "mdm:leafless_bamboo_decoration_3[facing=south]"
+        },
+        {
+            "char": "¹",
+            "block": "spore:lab_stair[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "º",
+            "block": "modernfurniture:office_wood_desk_4_a[facing=south]"
+        },
+        {
+            "char": "»",
+            "block": "modernfurniture:patio_gray_rug[facing=south]"
+        },
+        {
+            "char": "¼",
+            "block": "modernfurniture:wood_flat_stair_3_a[facing=south]"
+        },
+        {
+            "char": "½",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "¾",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "¿",
+            "block": "spore:lab_stair[facing=south,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "À",
+            "block": "spore:lab_stair[facing=north,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Á",
+            "block": "moa_decor_science:documentos[facing=north]"
+        },
+        {
+            "char": "Â",
+            "block": "moa_decor_science:libroabierto[facing=south]"
+        },
+        {
+            "char": "Ã",
+            "block": "nfm:white_digital_clock[facing=east]"
+        },
+        {
+            "char": "Ä",
+            "block": "modernfurniture:wood_stair_3_a[facing=east]"
+        },
+        {
+            "char": "Å",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "Æ",
+            "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "Ç",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "È",
+            "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "É",
+            "block": "spore:lab_slab[type=double,waterlogged=false]"
+        },
+        {
+            "char": "Ê",
+            "block": "minecraft:polished_deepslate"
+        },
+        {
+            "char": "Ë",
+            "block": "minecraft:birch_wood[axis=x]"
+        },
+        {
+            "char": "Ì",
+            "block": "minecraft:calcite"
+        },
+        {
+            "char": "Í",
+            "block": "minecraft:birch_wood[axis=z]"
+        },
+        {
+            "char": "Î",
+            "block": "spore:lab_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "Ï",
+            "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        },
+        {
+            "char": "Ð",
+            "block": "minecraft:smooth_quartz_slab[type=double,waterlogged=false]"
+        },
+        {
+            "char": "Ñ",
+            "block": "betterblockz:tintedglass_blockz_0"
+        },
+        {
+            "char": "Ò",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:old_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ó",
+            "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ô",
+            "block": "minecraft:bookshelf"
+        },
+        {
+            "char": "Õ",
+            "block": "minecraft:chiseled_bookshelf[facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false]"
+        },
+        {
+            "char": "Ö",
+            "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "×",
+            "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ø",
+            "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ù",
+            "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "Ú",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Û",
+            "block": "architecture:fence_cnr_black[facing=west]"
+        },
+        {
+            "char": "Ü",
+            "block": "architecture:fence_black[facing=south]"
+        },
+        {
+            "char": "Ý",
+            "block": "architecture:fence_cnr_black[facing=north]"
+        },
+        {
+            "char": "Þ",
+            "block": "architecture:fence_black[facing=east]"
+        },
+        {
+            "char": "ß",
+            "block": "architecture:fence_black[facing=west]"
+        },
+        {
+            "char": "à",
+            "block": "lootr:lootr_chest[facing=north,type=single,waterlogged=false]",
+            "loot": "building003_loot"
+        },
+        {
+            "char": "á",
+            "block": "minecraft:chiseled_bookshelf[facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false]"
+        },
+        {
+            "char": "â",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_chest[facing=south,type=single,waterlogged=false] building003_chest2",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ã",
+            "block": "modernfurniture:office_chair[facing=south]"
+        },
+        {
+            "char": "ä",
+            "block": "modernfurniture:office_wood_desk_a[facing=west]"
+        },
+        {
+            "char": "å",
+            "block": "mdm:black_lamp[facing=south]"
+        },
+        {
+            "char": "æ",
+            "block": "modernfurniture:office_wood_desk_3_a[facing=north]"
+        },
+        {
+            "char": "ç",
+            "block": "modernfurniture:modern_sofa_a[facing=east]"
+        },
+        {
+            "char": "è",
+            "block": "modernfurniture:patio_gray_rug[facing=east]"
+        },
+        {
+            "char": "é",
+            "block": "modernfurniture:modern_sofa_a[facing=west]"
+        },
+        {
+            "char": "ê",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:white_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ë",
+            "block": "nfm:stone_bird_bath"
+        },
+        {
+            "char": "ì",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:black_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "í",
+            "block": "lootr:lootr_chest[facing=east,type=single,waterlogged=false]",
+            "loot": "building003_loot"
+        },
+        {
+            "char": "î",
+            "block": "minecraft:decorated_pot[cracked=false,facing=east,waterlogged=false]",
+            "tag": {
+                "sherds": [
+                    "saros__money_mod:cent_1",
+                    "saros__money_mod:cent_2",
+                    "saros__money_mod:cent_5",
+                    "saros__money_mod:cent_10"
+                ]
+            }
+        },
+        {
+            "char": "ï",
+            "block": "modernfurniture:wood_shelf_3_a[facing=south]"
+        },
+        {
+            "char": "ð",
+            "block": "mdm:hanging_shelf[facing=south]"
+        },
+        {
+            "char": "ñ",
+            "block": "moa_decor_science:portapapeles[facing=west]"
+        },
+        {
+            "char": "ò",
+            "block": "moa_decor_science:pergaminoenrollado[facing=west]"
+        },
+        {
+            "char": "ó",
+            "block": "moa_decor_electronics:laptop_blanca[facing=north]"
+        },
+        {
+            "char": "ô",
+            "block": "minecraft:flowering_azalea_leaves[distance=7,persistent=true,waterlogged=false]"
+        },
+        {
+            "char": "õ",
+            "block": "modernfurniture:ceiling_light[facing=south]"
+        },
+        {
+            "char": "ö",
+            "block": "minecraft:deepslate_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "÷",
+            "block": "minecraft:deepslate_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ø",
+            "block": "minecraft:deepslate_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ù",
+            "block": "minecraft:deepslate_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ú",
+            "block": "minecraft:deepslate_brick_slab[type=top,waterlogged=false]"
+        },
+        {
+            "char": "û",
+            "block": "modernfurniture:office_chair[facing=east]"
+        },
+        {
+            "char": "ü",
+            "block": "modernfurniture:office_wood_desk_3_a[facing=west]"
+        },
+        {
+            "char": "ý",
+            "block": "modernfurniture:patio_gray_rug[facing=north]"
+        },
+        {
+            "char": "þ",
+            "block": "mdm:modern_lamp_1[facing=east]"
+        },
+        {
+            "char": "ÿ",
+            "block": "mdm:leafless_bamboo_decoration_3[facing=north]"
+        },
+        {
+            "char": "Ā",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:brain_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ā",
+            "block": "mdm:potted_tree[facing=east]"
+        },
+        {
+            "char": "Ă",
+            "block": "mdm:leafless_bamboo_decoration_3[facing=east]"
+        },
+        {
+            "char": "ă",
+            "block": "mdm:couch_right[facing=east]"
+        },
+        {
+            "char": "Ą",
+            "block": "mdm:couchmiddle[facing=east]"
+        },
+        {
+            "char": "ą",
+            "block": "mdm:carpet_4[facing=east]"
+        },
+        {
+            "char": "Ć",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:zombie_screamer {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ć",
+            "block": "mdm:couch_corner[facing=east]"
+        },
+        {
+            "char": "Ĉ",
+            "block": "mdm:couchmiddle[facing=north]"
+        },
+        {
+            "char": "ĉ",
+            "block": "mdm:couchleft[facing=north]"
+        },
+        {
+            "char": "Ċ",
+            "block": "mdm:potted_tree[facing=north]"
+        },
+        {
+            "char": "ċ",
+            "block": "mdm:modern_lamp_1[facing=north]"
+        },
+        {
+            "char": "Č",
+            "block": "mdm:modern_lamp_1[facing=west]"
+        },
+        {
+            "char": "č",
+            "block": "architecture:lime_render_half_block[facing=south]"
+        },
+        {
+            "char": "Ď",
+            "block": "moa_decor_electronics:laptop_blanca[facing=west]"
+        },
+        {
+            "char": "ď",
+            "block": "fastpaintings:painting[facing=north,waterlogged=false,x_offset=0,y_offset=0]"
+        },
+        {
+            "char": "Đ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:zombie_girl {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "đ",
+            "block": "moa_decor_science:libros[facing=north]"
+        },
+        {
+            "char": "Ē",
+            "block": "minecraft:ladder[facing=north,waterlogged=false]"
+        },
+        {
+            "char": "ē",
+            "block": "moa_decor_science:globoterraqueo[facing=north]"
+        },
+        {
+            "char": "Ĕ",
+            "block": "moa_decor_electronics:laptop_gris[facing=north]"
+        },
+        {
+            "char": "ĕ",
+            "block": "moa_decor_science:librosapilados[facing=south]"
+        },
+        {
+            "char": "Ė",
+            "block": "architecture:fence_cnr_black[facing=south]"
+        },
+        {
+            "char": "ė",
+            "block": "architecture:fence_black[facing=north]"
+        },
+        {
+            "char": "Ę",
+            "block": "architecture:fence_cnr_black[facing=east]"
+        },
+        {
+            "char": "ę",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:angry_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ě",
+            "block": "moa_decor_art:esculturavenusdemilo[facing=east]"
+        },
+        {
+            "char": "ě",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:gray_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ĝ",
+            "block": "moa_decor_art:esculturaelpensador[facing=west]"
+        },
+        {
+            "char": "ĝ",
+            "block": "lootr:lootr_chest[facing=west,type=single,waterlogged=false]",
+            "loot": "building003_loot"
+        },
+        {
+            "char": "Ğ",
+            "block": "moa_decor_art:esculturalavictoriodesamotracia[facing=east]"
+        },
+        {
+            "char": "ğ",
+            "block": "moa_decor_art:esculturamujerconjarra[facing=south]"
+        },
+        {
+            "char": "Ġ",
+            "block": "minecraft:decorated_pot[cracked=false,facing=north,waterlogged=false]",
+            "tag": {
+                "sherds": [
+                    "saros__money_mod:cent_1",
+                    "saros__money_mod:cent_2",
+                    "saros__money_mod:cent_5",
+                    "saros__money_mod:cent_10"
+                ]
+            }
+        },
+        {
+            "char": "ġ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:infectious_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ģ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:fat_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ģ",
+            "block": "mdm:modern_painting[facing=north]"
+        }
+    ]
+}

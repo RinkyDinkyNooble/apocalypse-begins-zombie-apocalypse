@@ -1,0 +1,73 @@
+{
+    "values": [
+        {
+            "factor": 1,
+            "value": "abza:building004/general"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/codes",
+            "inpart": "building004_1_0_floor4"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_0_0_cellar0"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_0_1_cellar0"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_1_0_cellar0"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_1_1_cellar0"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_0_0_cellar1"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_0_1_cellar1"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_1_0_cellar1"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_1_1_cellar1"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_0_0_cellar2"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_0_1_cellar2"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_1_0_cellar2"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building004/weapons",
+            "inpart": "building004_1_1_cellar2"
+        }
+    ]
+}

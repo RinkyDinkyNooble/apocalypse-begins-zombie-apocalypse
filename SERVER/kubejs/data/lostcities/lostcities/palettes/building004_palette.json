@@ -1,0 +1,1738 @@
+{
+    "palette": [
+        {
+            "char": " ",
+            "block": "minecraft:air"
+        },
+        {
+            "char": "¡",
+            "block": "securitycraft:reinforced_diorite"
+        },
+        {
+            "char": "¢",
+            "block": "securitycraft:reinforced_deepslate_bricks"
+        },
+        {
+            "char": "£",
+            "block": "securitycraft:reinforced_calcite"
+        },
+        {
+            "char": "¤",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "¥",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "¦",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "§",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:zombie_prisoner {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "¨",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "©",
+            "block": "nfm:deepslate_chair[facing=north]"
+        },
+        {
+            "char": "ª",
+            "block": "spore:iron_ladder[facing=west,waterlogged=false]"
+        },
+        {
+            "char": "«",
+            "block": "modernfurniture:white_marble_tile"
+        },
+        {
+            "char": "¬",
+            "block": "minecraft:spawner",
+            "mob": "zombie"
+        },
+        {
+            "char": "®",
+            "block": "nfm:stone_table[east=false,north=false,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "¯",
+            "block": "minecraft:bamboo_slab[type=top,waterlogged=false]"
+        },
+        {
+            "char": "°",
+            "block": "nfm:deepslate_chair[facing=south]"
+        },
+        {
+            "char": "±",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:chained_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "²",
+            "block": "architecture:render_black_slab[type=double,waterlogged=false]"
+        },
+        {
+            "char": "³",
+            "block": "minecraft:chain[axis=z,waterlogged=false]"
+        },
+        {
+            "char": "´",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:zombie_police {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "µ",
+            "block": "nfm:deepslate_chair[facing=west]"
+        },
+        {
+            "char": "¶",
+            "block": "nfm:deepslate_chair[facing=east]"
+        },
+        {
+            "char": "·",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "¸",
+            "block": "securitycraft:reinforced_polished_deepslate"
+        },
+        {
+            "char": "¹",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "º",
+            "block": "modernfurniture:light_gray_tadao_ando_concrete_block"
+        },
+        {
+            "char": "»",
+            "block": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "¼",
+            "block": "farmersdelight:rice_roll_medley_block[facing=east,servings=8]"
+        },
+        {
+            "char": "½",
+            "block": "minecraft:bamboo_slab[type=double,waterlogged=false]"
+        },
+        {
+            "char": "¾",
+            "block": "farmersdelight:roast_chicken_block[facing=north,servings=4]"
+        },
+        {
+            "char": "¿",
+            "block": "farmersdelight:shepherds_pie_block[facing=north,servings=4]"
+        },
+        {
+            "char": "À",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Á",
+            "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Â",
+            "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+        },
+        {
+            "char": "Ã",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ä",
+            "block": "minecraft:chain[axis=y,waterlogged=false]"
+        },
+        {
+            "char": "Å",
+            "block": "lootr:lootr_chest[facing=south,type=single,waterlogged=false]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "Æ",
+            "block": "architecture:render_black_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "Ç",
+            "block": "lootr:lootr_chest[facing=north,type=single,waterlogged=false]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "È",
+            "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "É",
+            "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Ê",
+            "block": "securitycraft:reinforced_black_stained_glass"
+        },
+        {
+            "char": "Ë",
+            "block": "betterblockz:cyberlight_thin_1[facing=down]"
+        },
+        {
+            "char": "Ì",
+            "block": "betterblockz:cyberlight_thin_0[facing=down]"
+        },
+        {
+            "char": "Í",
+            "block": "minecraft:smooth_quartz"
+        },
+        {
+            "char": "Î",
+            "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "Ï",
+            "block": "minecraft:smooth_quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ð",
+            "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ñ",
+            "block": "mdm:bathroom_sink[facing=south]"
+        },
+        {
+            "char": "Ò",
+            "block": "moa_decor_bath:inodoro[facing=south]"
+        },
+        {
+            "char": "Ó",
+            "block": "mdm:bedroom_set_1wengebunkbed[facing=south]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "Ô",
+            "block": "securitycraft:iron_door_reinforced[facing=north,half=lower,hinge=left,open=false]"
+        },
+        {
+            "char": "Õ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:swat_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ö",
+            "block": "architecture:fence_cnr_black[facing=west]"
+        },
+        {
+            "char": "×",
+            "block": "architecture:fence_black[facing=north]"
+        },
+        {
+            "char": "Ø",
+            "block": "architecture:fence_black[facing=west]"
+        },
+        {
+            "char": "Ù",
+            "block": "mdm:bedroom_set_1wengebunkbed[facing=east]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "Ú",
+            "block": "securitycraft:iron_door_reinforced[facing=west,half=lower,hinge=left,open=false]"
+        },
+        {
+            "char": "Û",
+            "block": "lootr:lootr_chest[facing=east,type=single,waterlogged=false]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "Ü",
+            "block": "moa_decor_bath:inodoro[facing=east]"
+        },
+        {
+            "char": "Ý",
+            "block": "mdm:bathroom_sink[facing=east]"
+        },
+        {
+            "char": "Þ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=south,half=lower,hinge=right,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ß",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=south,half=lower,hinge=left,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "à",
+            "block": "securitycraft:reinforced_iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "á",
+            "block": "securitycraft:reinforced_iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "â",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeycardReader securitycraft:keycard_reader[facing=south,powered=false,waterlogged=false] building004_doors",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ã",
+            "block": "securitycraft:iron_door_reinforced[facing=north,half=upper,hinge=left,open=false]"
+        },
+        {
+            "char": "ä",
+            "block": "securitycraft:iron_door_reinforced[facing=west,half=upper,hinge=left,open=false]"
+        },
+        {
+            "char": "å",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeycardReader securitycraft:keycard_reader[facing=east,powered=false,waterlogged=false] building004_doors",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "æ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=south,half=upper,hinge=right,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ç",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=south,half=upper,hinge=left,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "è",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:display_case[face=wall,facing=east,waterlogged=false] building004_display_case",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "é",
+            "block": "securitycraft:reinforced_deepslate_brick_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "ê",
+            "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "ë",
+            "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ì",
+            "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        },
+        {
+            "char": "í",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=south,half=top,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "î",
+            "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ï",
+            "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "ð",
+            "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "ñ",
+            "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "ò",
+            "block": "architecture:fence_cnr_black[facing=north]"
+        },
+        {
+            "char": "ó",
+            "block": "architecture:fence_black[facing=east]"
+        },
+        {
+            "char": "ô",
+            "block": "architecture:fence_black[facing=south]"
+        },
+        {
+            "char": "õ",
+            "block": "architecture:fence_cnr_black[facing=east]"
+        },
+        {
+            "char": "ö",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "÷",
+            "block": "securitycraft:iron_door_reinforced[facing=south,half=lower,hinge=right,open=false]"
+        },
+        {
+            "char": "ø",
+            "block": "architecture:fence_cnr_black[facing=south]"
+        },
+        {
+            "char": "ù",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ú",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeycardReader securitycraft:keycard_reader[facing=north,powered=false,waterlogged=false] building004_doors",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "û",
+            "block": "securitycraft:iron_door_reinforced[facing=south,half=upper,hinge=right,open=false]"
+        },
+        {
+            "char": "ü",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ý",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "þ",
+            "block": "betterblockz:ironslate_blockz_1"
+        },
+        {
+            "char": "ÿ",
+            "block": "betterblockz:cyberlight_blockz_2[lit=true]"
+        },
+        {
+            "char": "Ā",
+            "block": "betterblockz:zeno_black_blockz_0"
+        },
+        {
+            "char": "ā",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ă",
+            "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ă",
+            "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ą",
+            "block": "mdm:leafless_bamboo_decoration_3[facing=south]"
+        },
+        {
+            "char": "ą",
+            "block": "mdm:potted_tree[facing=east]"
+        },
+        {
+            "char": "Ć",
+            "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ć",
+            "block": "mdm:modern_lamp_1[facing=east]"
+        },
+        {
+            "char": "Ĉ",
+            "block": "mdm:leafless_bamboo_decoration_3[facing=east]"
+        },
+        {
+            "char": "ĉ",
+            "block": "architecture:door_black[facing=north,half=lower,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "Ċ",
+            "block": "architecture:door_black[facing=north,half=lower,hinge=right,open=false,powered=false]"
+        },
+        {
+            "char": "ċ",
+            "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Č",
+            "block": "architecture:door_black[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        },
+        {
+            "char": "č",
+            "block": "architecture:door_black[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "Ď",
+            "block": "mdm:modern_lamp_1[facing=west]"
+        },
+        {
+            "char": "ď",
+            "block": "modernfurniture:wood_bench_a[facing=north]"
+        },
+        {
+            "char": "Đ",
+            "block": "architecture:door_black[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "đ",
+            "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "Ē",
+            "block": "mdm:modern_desk_2[facing=south]"
+        },
+        {
+            "char": "ē",
+            "block": "mdm:potted_tree[facing=south]"
+        },
+        {
+            "char": "Ĕ",
+            "block": "modernfurniture:white_straight_line[facing=east]"
+        },
+        {
+            "char": "ĕ",
+            "block": "modernfurniture:white_large_line_corner[facing=south]"
+        },
+        {
+            "char": "Ė",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=east,half=top,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ė",
+            "block": "betterblockz:tintedglass_blockz_11"
+        },
+        {
+            "char": "Ę",
+            "block": "architecture:door_black[facing=north,half=upper,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "ę",
+            "block": "architecture:door_black[facing=north,half=upper,hinge=right,open=false,powered=false]"
+        },
+        {
+            "char": "Ě",
+            "block": "architecture:door_black[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        },
+        {
+            "char": "ě",
+            "block": "architecture:door_black[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "Ĝ",
+            "block": "architecture:door_black[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "ĝ",
+            "block": "minecraft:smooth_quartz_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "Ğ",
+            "block": "architecture:lime_render_half_block[facing=south]"
+        },
+        {
+            "char": "ğ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ġ",
+            "block": "betterblockz:cyberlight_blockz_0[lit=true]"
+        },
+        {
+            "char": "ġ",
+            "block": "minecraft:calcite"
+        },
+        {
+            "char": "Ģ",
+            "block": "minecraft:black_concrete"
+        },
+        {
+            "char": "ģ",
+            "block": "architecture:tile_beige"
+        },
+        {
+            "char": "Ĥ",
+            "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "ĥ",
+            "block": "modernfurniture:modern_kitchen_drawer_a[facing=south]"
+        },
+        {
+            "char": "Ħ",
+            "block": "modernfurniture:modern_kitchen_drawer_2_b[facing=south]"
+        },
+        {
+            "char": "ħ",
+            "block": "modernfurniture:modern_kitchen_drawer_a_with_sink[facing=south]"
+        },
+        {
+            "char": "Ĩ",
+            "block": "farmersdelight:stove[facing=east,lit=true]"
+        },
+        {
+            "char": "ĩ",
+            "block": "modernfurniture:modern_kitchen_drawer_3_a[facing=east]"
+        },
+        {
+            "char": "Ī",
+            "block": "modernfurniture:modern_kitchen_drawer_a[facing=north]"
+        },
+        {
+            "char": "ī",
+            "block": "modernfurniture:modern_kitchen_drawer_corner[facing=south]"
+        },
+        {
+            "char": "Ĭ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:black_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ĭ",
+            "block": "modernfurniture:modern_kitchen_drawer_3_b[facing=east]"
+        },
+        {
+            "char": "Į",
+            "block": "architecture:door_glass_black[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        },
+        {
+            "char": "į",
+            "block": "architecture:door_glass_black[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "İ",
+            "block": "farmersdelight:canvas_rug"
+        },
+        {
+            "char": "ı",
+            "block": "minecraft:gray_carpet"
+        },
+        {
+            "char": "Ĳ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ĳ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ĵ",
+            "block": "betterblockz:tintedglass_blockz_3"
+        },
+        {
+            "char": "ĵ",
+            "block": "nfm:plate[facing=north]"
+        },
+        {
+            "char": "Ķ",
+            "block": "nfm:plate[facing=south]"
+        },
+        {
+            "char": "ķ",
+            "block": "architecture:door_glass_black[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        },
+        {
+            "char": "ĸ",
+            "block": "architecture:door_glass_black[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "Ĺ",
+            "block": "modernfurniture:modern_stair_3_a[facing=east]"
+        },
+        {
+            "char": "ĺ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=east,half=top,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ļ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=west,half=top,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ļ",
+            "block": "minecraft:stripped_oak_wood[axis=z]"
+        },
+        {
+            "char": "Ľ",
+            "block": "minecraft:stripped_oak_wood[axis=x]"
+        },
+        {
+            "char": "ľ",
+            "block": "modernfurniture:office_chair[facing=east]"
+        },
+        {
+            "char": "Ŀ",
+            "block": "modernfurniture:office_wood_desk_3_a[facing=west]"
+        },
+        {
+            "char": "ŀ",
+            "block": "modernfurniture:wall_white_concrete_block"
+        },
+        {
+            "char": "Ł",
+            "block": "moa_decor_science:documentos[facing=north]"
+        },
+        {
+            "char": "ł",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ń",
+            "block": "moa_decor_science:documento[facing=west]"
+        },
+        {
+            "char": "ń",
+            "block": "moa_decor_science:libroabierto[facing=west]"
+        },
+        {
+            "char": "Ņ",
+            "block": "moa_decor_electronics:laptop_negra[facing=west]"
+        },
+        {
+            "char": "ņ",
+            "block": "moa_decor_science:documentos[facing=west]"
+        },
+        {
+            "char": "Ň",
+            "block": "neoncraft:s_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "ň",
+            "block": "neoncraft:t_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "ŉ",
+            "block": "neoncraft:a_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "Ŋ",
+            "block": "neoncraft:i_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "ŋ",
+            "block": "neoncraft:o_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "Ō",
+            "block": "neoncraft:n_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "ō",
+            "block": "minecraft:polished_basalt[axis=x]"
+        },
+        {
+            "char": "Ŏ",
+            "block": "minecraft:polished_basalt[axis=z]"
+        },
+        {
+            "char": "ŏ",
+            "block": "neoncraft:p_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "Ő",
+            "block": "neoncraft:l_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "ő",
+            "block": "neoncraft:c_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "Œ",
+            "block": "neoncraft:e_light_blue[facing=south,waterlogged=false]"
+        },
+        {
+            "char": "œ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=north,half=top,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ŕ",
+            "block": "modernfurniture:office_wood_desk_3_b[facing=east]"
+        },
+        {
+            "char": "ŕ",
+            "block": "mdm:office_set_1_chair[facing=west]"
+        },
+        {
+            "char": "Ŗ",
+            "block": "mdm:office_set_1_chair[facing=north]"
+        },
+        {
+            "char": "ŗ",
+            "block": "modernfurniture:patio_gray_rug[facing=west]"
+        },
+        {
+            "char": "Ř",
+            "block": "moa_decor_electronics:laptop_gris[facing=east]"
+        },
+        {
+            "char": "ř",
+            "block": "moa_decor_science:documentos[facing=south]"
+        },
+        {
+            "char": "Ś",
+            "block": "moa_decor_science:portapapeles[facing=east]"
+        },
+        {
+            "char": "ś",
+            "block": "moa_decor_science:documentos[facing=east]"
+        },
+        {
+            "char": "Ŝ",
+            "block": "moa_decor_science:documento[facing=east]"
+        },
+        {
+            "char": "ŝ",
+            "block": "fastpaintings:painting[facing=west,waterlogged=false,x_offset=0,y_offset=0]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "Ş",
+            "block": "fastpaintings:painting[facing=west,waterlogged=false,x_offset=1,y_offset=0]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "ş",
+            "block": "modernfurniture:ceiling_light[facing=down]"
+        },
+        {
+            "char": "Š",
+            "block": "minecraft:mushroom_stem[down=true,east=false,north=true,south=false,up=true,west=true]"
+        },
+        {
+            "char": "š",
+            "block": "minecraft:mushroom_stem[down=true,east=false,north=true,south=false,up=true,west=false]"
+        },
+        {
+            "char": "Ţ",
+            "block": "minecraft:mushroom_stem[down=true,east=false,north=false,south=false,up=true,west=true]"
+        },
+        {
+            "char": "ţ",
+            "block": "minecraft:mushroom_stem[down=true,east=false,north=false,south=false,up=true,west=false]"
+        },
+        {
+            "char": "Ť",
+            "block": "minecraft:mushroom_stem[down=true,east=true,north=false,south=true,up=true,west=false]"
+        },
+        {
+            "char": "ť",
+            "block": "minecraft:mushroom_stem[down=true,east=true,north=false,south=false,up=true,west=false]"
+        },
+        {
+            "char": "Ŧ",
+            "block": "minecraft:mushroom_stem[down=true,east=false,north=false,south=true,up=true,west=true]"
+        },
+        {
+            "char": "ŧ",
+            "block": "minecraft:mushroom_stem[down=true,east=false,north=false,south=true,up=true,west=false]"
+        },
+        {
+            "char": "Ũ",
+            "block": "minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=false]"
+        },
+        {
+            "char": "ũ",
+            "block": "minecraft:command_block[conditional=false,facing=south]",
+            "tag": {
+                "Command": "/spawnNPC 1 police",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ū",
+            "block": "mdm:carpet_4[facing=south]"
+        },
+        {
+            "char": "ū",
+            "block": "modernfurniture:office_wood_desk_4_a[facing=south]"
+        },
+        {
+            "char": "Ŭ",
+            "block": "mdm:carpet_4[facing=north]"
+        },
+        {
+            "char": "ŭ",
+            "block": "mdm:potted_tree[facing=north]"
+        },
+        {
+            "char": "Ů",
+            "block": "mdm:leafless_bamboo_decoration_3[facing=north]"
+        },
+        {
+            "char": "ů",
+            "block": "moa_decor_science:portapapeles[facing=south]"
+        },
+        {
+            "char": "Ű",
+            "block": "mdm:modern_desk_lamp_1[facing=east]"
+        },
+        {
+            "char": "ű",
+            "block": "modernfurniture:ceiling_light[facing=east]"
+        },
+        {
+            "char": "Ų",
+            "block": "moa_decor_electronics:laptop_gris[facing=west]"
+        },
+        {
+            "char": "ų",
+            "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Ŵ",
+            "block": "minecraft:lectern[facing=east,has_book=false,powered=false]"
+        },
+        {
+            "char": "ŵ",
+            "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Ŷ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ŷ",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ÿ",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ź",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:light_gray_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ź",
+            "block": "farmersdelight:stuffed_pumpkin_block[facing=west,servings=4]"
+        },
+        {
+            "char": "Ż",
+            "block": "farmersdelight:honey_glazed_ham_block[facing=south,servings=4]"
+        },
+        {
+            "char": "ż",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ž",
+            "block": "farmersdelight:shepherds_pie_block[facing=west,servings=4]"
+        },
+        {
+            "char": "ž",
+            "block": "farmersdelight:gleaming_salad_block[facing=south,servings=4]"
+        },
+        {
+            "char": "ſ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=north,half=lower,hinge=left,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ƀ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=north,half=lower,hinge=right,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ɓ",
+            "block": "fastpaintings:painting[facing=north,waterlogged=false,x_offset=1,y_offset=1]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "Ƃ",
+            "block": "fastpaintings:painting[facing=north,waterlogged=false,x_offset=0,y_offset=1]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "ƃ",
+            "block": "securitycraft:reinforced_dark_oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]"
+        },
+        {
+            "char": "Ƅ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_barrel[facing=south,frog=false,lid_facing=sideways,open=false,waterlogged=false] building004_barrel",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ƅ",
+            "block": "securitycraft:iron_door_reinforced[facing=south,half=lower,hinge=left,open=false]"
+        },
+        {
+            "char": "Ɔ",
+            "block": "mdm:bedroom_set_1wengebunkbed[facing=north]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "Ƈ",
+            "block": "moa_decor_bath:inodoro[facing=north]"
+        },
+        {
+            "char": "ƈ",
+            "block": "mdm:bathroom_sink[facing=north]"
+        },
+        {
+            "char": "Ɖ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=north,half=upper,hinge=left,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ɗ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_door[facing=north,half=upper,hinge=right,open=false,powered=false] building004_door",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ƌ",
+            "block": "fastpaintings:painting[facing=north,waterlogged=false,x_offset=1,y_offset=0]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "ƌ",
+            "block": "fastpaintings:painting[facing=north,waterlogged=false,x_offset=0,y_offset=0]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "ƍ",
+            "block": "securitycraft:iron_door_reinforced[facing=south,half=upper,hinge=left,open=false]"
+        },
+        {
+            "char": "Ǝ",
+            "block": "fastpaintings:painting[facing=east,waterlogged=false,x_offset=0,y_offset=0]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "Ə",
+            "block": "minecraft:smooth_quartz_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "Ɛ",
+            "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "Ƒ",
+            "block": "nfm:black_modern_chair[facing=east]"
+        },
+        {
+            "char": "ƒ",
+            "block": "moa_decor_electronics:teclado_monitor[facing=east]"
+        },
+        {
+            "char": "Ɠ",
+            "block": "architecture:cladding_corrugated_iron[facing=north]"
+        },
+        {
+            "char": "Ɣ",
+            "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        },
+        {
+            "char": "ƕ",
+            "block": "architecture:door_black[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "Ɩ",
+            "block": "modernfurniture:white_large_line_corner[facing=east]"
+        },
+        {
+            "char": "Ɨ",
+            "block": "architecture:cladding_corrugated_iron[facing=south]"
+        },
+        {
+            "char": "Ƙ",
+            "block": "minecraft:polished_andesite_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "ƙ",
+            "block": "minecraft:polished_andesite_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ƚ",
+            "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ƛ",
+            "block": "minecraft:polished_andesite_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ɯ",
+            "block": "minecraft:polished_andesite_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "Ɲ",
+            "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ƞ",
+            "block": "minecraft:polished_andesite_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "Ɵ",
+            "block": "minecraft:polished_andesite_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "Ơ",
+            "block": "minecraft:polished_andesite_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ơ",
+            "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "Ƣ",
+            "block": "modernfurniture:modern_fence_left[facing=south]"
+        },
+        {
+            "char": "ƣ",
+            "block": "modernfurniture:modern_fence_center[facing=south]"
+        },
+        {
+            "char": "Ƥ",
+            "block": "lootr:lootr_barrel[facing=east,open=false]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "ƥ",
+            "block": "architecture:door_black[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        },
+        {
+            "char": "Ʀ",
+            "block": "lootr:lootr_barrel[facing=west,open=false]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "Ƨ",
+            "block": "moa_decor_science:documento[facing=north]"
+        },
+        {
+            "char": "ƨ",
+            "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Ʃ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:display_case[face=wall,facing=north,waterlogged=false] building004_display_case",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ƪ",
+            "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "ƫ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=north,half=top,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ƭ",
+            "block": "architecture:container_roof_black[facing=east]"
+        },
+        {
+            "char": "ƭ",
+            "block": "architecture:container_roof_black[facing=west]"
+        },
+        {
+            "char": "Ʈ",
+            "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Ư",
+            "block": "minecraft:gray_concrete"
+        },
+        {
+            "char": "ư",
+            "block": "minecraft:yellow_concrete"
+        },
+        {
+            "char": "Ʊ",
+            "block": "minecraft:command_block[conditional=false,facing=south]",
+            "tag": {
+                "Command": "/spawn superbwarfare:ah_6 {Energy:1800000,Inventory:{Items:[{RCount:16,Slot:0,id:'superbwarfare:small_rocket',Count:16},{RCount:64,Slot:1,id:'superbwarfare:small_shell_he',Count:64}]}}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ʋ",
+            "block": "modernfurniture:modern_kitchen_drawer_b[facing=west]"
+        },
+        {
+            "char": "Ƴ",
+            "block": "modernfurniture:modern_kitchen_drawer_2_a[facing=west]"
+        },
+        {
+            "char": "ƴ",
+            "block": "farmersdelight:stove[facing=west,lit=true]"
+        },
+        {
+            "char": "Ƶ",
+            "block": "nfm:oven_light[facing=east]"
+        },
+        {
+            "char": "ƶ",
+            "block": "modernfurniture:modern_kitchen_drawer_a[facing=west]"
+        },
+        {
+            "char": "Ʒ",
+            "block": "modernfurniture:modern_kitchen_drawer_2_b[facing=west]"
+        },
+        {
+            "char": "Ƹ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ƹ",
+            "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "ƺ",
+            "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "ƻ",
+            "block": "farmersdelight:stuffed_pumpkin_block[facing=east,servings=4]"
+        },
+        {
+            "char": "Ƽ",
+            "block": "farmersdelight:skillet[facing=east,support=false,waterlogged=false]"
+        },
+        {
+            "char": "ƽ",
+            "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "ƾ",
+            "block": "farmersdelight:cutting_board[facing=east,waterlogged=false]"
+        },
+        {
+            "char": "ƿ",
+            "block": "farmersdelight:cutting_board[facing=west,waterlogged=false]"
+        },
+        {
+            "char": "ǀ",
+            "block": "farmersdelight:skillet[facing=north,support=false,waterlogged=false]"
+        },
+        {
+            "char": "ǁ",
+            "block": "farmersdelight:honey_glazed_ham_block[facing=west,servings=4]"
+        },
+        {
+            "char": "ǂ",
+            "block": "farmersdelight:cooking_pot[facing=south,support=none,waterlogged=false]"
+        },
+        {
+            "char": "ǃ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ǆ",
+            "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "ǅ",
+            "block": "farmersdelight:rice_roll_medley_block[facing=west,servings=8]"
+        },
+        {
+            "char": "ǆ",
+            "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+        },
+        {
+            "char": "Ǉ",
+            "block": "farmersdelight:oak_cabinet[facing=west,open=false]",
+            "loot": "kitchen_loot"
+        },
+        {
+            "char": "ǈ",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ǉ",
+            "block": "fastpaintings:painting[facing=west,waterlogged=false,x_offset=0,y_offset=1]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "Ǌ",
+            "block": "fastpaintings:painting[facing=west,waterlogged=false,x_offset=1,y_offset=1]",
+            "tag": {
+                "variant": "minecraft:match"
+            }
+        },
+        {
+            "char": "ǋ",
+            "block": "mdm:bathroom_sink[facing=west]"
+        },
+        {
+            "char": "ǌ",
+            "block": "moa_decor_bath:inodoro[facing=west]"
+        },
+        {
+            "char": "Ǎ",
+            "block": "lootr:lootr_chest[facing=west,type=single,waterlogged=false]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "ǎ",
+            "block": "securitycraft:iron_door_reinforced[facing=east,half=lower,hinge=left,open=false]"
+        },
+        {
+            "char": "Ǐ",
+            "block": "mdm:bedroom_set_1wengebunkbed[facing=west]",
+            "loot": "building004_loot"
+        },
+        {
+            "char": "ǐ",
+            "block": "modernfurniture:white_desk_2[facing=south]"
+        },
+        {
+            "char": "Ǒ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeycardReader securitycraft:keycard_reader[facing=west,powered=false,waterlogged=false] building004_doors",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ǒ",
+            "block": "securitycraft:iron_door_reinforced[facing=east,half=upper,hinge=left,open=false]"
+        },
+        {
+            "char": "Ǔ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:display_case[face=wall,facing=south,waterlogged=false] building004_display_case",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ǔ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=south,half=top,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ǖ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "ǖ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "Ǘ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ǘ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ǚ",
+            "block": "modernfurniture:office_chair[facing=south]"
+        },
+        {
+            "char": "ǚ",
+            "block": "modernfurniture:office_wood_desk_4_a[facing=west]"
+        },
+        {
+            "char": "Ǜ",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "ǜ",
+            "block": "modernfurniture:office_wood_desk_3_a[facing=north]"
+        },
+        {
+            "char": "ǝ",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        },
+        {
+            "char": "Ǟ",
+            "block": "modernfurniture:modern_stair_3_a[facing=south]"
+        },
+        {
+            "char": "ǟ",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "Ǡ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ǡ",
+            "block": "modernfurniture:white_large_line_corner[facing=west]"
+        },
+        {
+            "char": "Ǣ",
+            "block": "modernfurniture:modern_flat_stair_3_a[facing=north]"
+        },
+        {
+            "char": "ǣ",
+            "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "Ǥ",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+        },
+        {
+            "char": "ǥ",
+            "block": "moa_decor_electronics:laptop_negra[facing=north]"
+        },
+        {
+            "char": "Ǧ",
+            "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "ǧ",
+            "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "Ǩ",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        },
+        {
+            "char": "ǩ",
+            "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "Ǫ",
+            "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "ǫ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=west,half=top,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ǭ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false] {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ǭ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/placeBlockEntity minecraft:white_carpet {}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ǯ",
+            "block": "modernfurniture:patio_gray_rug[facing=north]"
+        },
+        {
+            "char": "ǯ",
+            "block": "mdm:modern_desk_2[facing=north]"
+        },
+        {
+            "char": "ǰ",
+            "block": "modernfurniture:office_chair[facing=north]"
+        },
+        {
+            "char": "Ǳ",
+            "block": "minecraft:command_block[conditional=false,facing=south]",
+            "tag": {
+                "Command": "/placeBlockEntity movingelevators:elevator_block[facing=south] {data:{camoState:{Name:'modernfurniture:wall_white_concrete_block'}}}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ǲ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeBlockEntity movingelevators:display_block {data:{camoState:{Name:'modernfurniture:wall_white_concrete_block'}}}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ǳ",
+            "block": "modernfurniture:patio_gray_rug[facing=south]"
+        },
+        {
+            "char": "Ǵ",
+            "block": "minecraft:mushroom_stem[down=true,east=true,north=true,south=false,up=true,west=false]"
+        },
+        {
+            "char": "ǵ",
+            "block": "modernfurniture:modern_kitchen_drawer_a_with_sink[facing=west]"
+        },
+        {
+            "char": "Ƕ",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:zombie_cook {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ƿ",
+            "block": "farmersdelight:rice_bag"
+        },
+        {
+            "char": "Ǹ",
+            "block": "farmersdelight:tomato_crate"
+        },
+        {
+            "char": "ǹ",
+            "block": "farmersdelight:potato_crate"
+        },
+        {
+            "char": "Ǻ",
+            "block": "farmersdelight:carrot_crate"
+        },
+        {
+            "char": "ǻ",
+            "block": "farmersdelight:beetroot_crate"
+        },
+        {
+            "char": "Ǽ",
+            "block": "cfm:oak_crate[facing=east,open=false]",
+            "loot": "kitchen_loot"
+        },
+        {
+            "char": "ǽ",
+            "block": "farmersdelight:onion_crate"
+        },
+        {
+            "char": "Ǿ",
+            "block": "minecraft:polished_andesite_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ǿ",
+            "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        },
+        {
+            "char": "Ȁ",
+            "block": "farmersdelight:rice_roll_medley_block[facing=south,servings=8]"
+        },
+        {
+            "char": "ȁ",
+            "block": "farmersdelight:roast_chicken_block[facing=east,servings=4]"
+        },
+        {
+            "char": "Ȃ",
+            "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        },
+        {
+            "char": "ȃ",
+            "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "Ȅ",
+            "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        },
+        {
+            "char": "ȅ",
+            "block": "securitycraft:reinforced_deepslate_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "Ȇ",
+            "block": "modernfurniture:white_desk_2[facing=north]"
+        },
+        {
+            "char": "ȇ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_chest[facing=east,type=single,waterlogged=false] building004_chest",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ȉ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ȉ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "Ȋ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "ȋ",
+            "block": "securitycraft:reinforced_polished_deepslate_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "Ȍ",
+            "block": "modernfurniture:white_large_line_corner[facing=north]"
+        },
+        {
+            "char": "ȍ",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/spawn superbwarfare:sodayo_pick_up_tow {Energy:1800000,Inventory:{Items:[{RCount:4,Slot:0,id:'superbwarfare:medium_anti_ground_missile',Count:4}]}}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ȏ",
+            "block": "modernfurniture:modern_fence_right[facing=south]"
+        }
+    ]
+}

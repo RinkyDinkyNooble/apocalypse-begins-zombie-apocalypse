@@ -1,0 +1,36 @@
+{
+    "armorSetName": "soldier_armor",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "infectious:soldier_armor_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "infectious:soldier_armor_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "infectious:soldier_armor_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "infectious:soldier_armor_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "minecraft:generic.armor_toughness",
+            "value": 4.0,
+            "modifierUUID": "47e61e68-975f-4b1b-bcc7-a63f3fd10ab7",
+            "description": "+4 Armor Toughness",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "interactionDuration": 60,
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": false,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

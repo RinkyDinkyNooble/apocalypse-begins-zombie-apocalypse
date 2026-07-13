@@ -1,0 +1,52 @@
+{
+    "filler": "~",
+    "rubble": "}",
+    "allowDoors": false,
+    "mincellars": 0,
+    "maxcellars": 0,
+    "minfloors": 6,
+    "maxfloors": 15,
+    "parts": [
+        {
+            "cellar": false,
+            "ground": true,
+            "top": false,
+            "floor": 0,
+            "part": "building003_0_1_ground"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "floor": 1,
+            "part": "building003_0_1_floor1"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "range": "2,6",
+            "part": "building003_0_1_floor2"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "range": "7,10",
+            "part": "building003_0_1_floor3"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": false,
+            "range": "11,15",
+            "part": "building003_0_1_floor4"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": true,
+            "part": "building003_0_1_top"
+        }
+    ]
+}

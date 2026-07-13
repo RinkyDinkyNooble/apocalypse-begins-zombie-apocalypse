@@ -1,10 +1,10 @@
 {
-  "title": {
-    "text": "Exploration",
-    "color": "green",
-    "bold": true
-  },
-  "tip": {
-    "text": "Exploring & looting can give you most of the resources you will need."
-  }
+    "title": {
+        "text": "TBD",
+        "color": "green",
+        "bold": true
+    },
+    "tip": {
+        "text": "This modpack version is in pre-alpha. Expect pandemonium."
+    }
 }

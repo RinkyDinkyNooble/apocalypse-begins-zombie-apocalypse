@@ -1,0 +1,14 @@
+[
+    {
+        "item": "cure:vaccine",
+        "duration": 150
+    },
+    {
+        "item": "marbledsfirstaid:curative_pills",
+        "duration": 1
+    },
+    {
+        "item": "marbledsfirstaid:panacea_pills",
+        "duration": 1
+    }
+]

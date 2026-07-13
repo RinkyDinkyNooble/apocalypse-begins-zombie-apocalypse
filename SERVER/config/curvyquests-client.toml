@@ -1,0 +1,4 @@
+#Curve sampling rate (Higher the number, smoother the curve)
+#Range: 5 ~ 100
+sampling_rate = 25
+

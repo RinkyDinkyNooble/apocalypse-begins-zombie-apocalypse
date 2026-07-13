@@ -1,0 +1,34 @@
+{
+    "armorSetName": "security_armor",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "infectious:security_armor_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "infectious:security_armor_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "infectious:security_armor_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "infectious:security_armor_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "effect",
+            "name": "minecraft:strength",
+            "value": 0.0,
+            "description": "Gives strength",
+            "interactionType": "self",
+            "interactionDuration": 60,
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": false,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

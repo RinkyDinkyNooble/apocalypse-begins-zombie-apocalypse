@@ -1,0 +1,10 @@
+{
+    "dimx": 1,
+    "dimz": 2,
+    "buildings": [
+        [
+            "building003_0_0_building",
+            "building003_0_1_building"
+        ]
+    ]
+}

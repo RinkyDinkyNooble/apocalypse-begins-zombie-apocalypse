@@ -1,0 +1,343 @@
+{
+    "palette": [
+        {
+            "char": " ",
+            "block": "minecraft:air"
+        },
+        {
+            "char": "¡",
+            "block": "betterblockz:ironslate_blockz_1"
+        },
+        {
+            "char": "¢",
+            "block": "betterblockz:eclipse_blockz_0"
+        },
+        {
+            "char": "£",
+            "block": "minecraft:dirt"
+        },
+        {
+            "char": "¤",
+            "block": "minecraft:grass_block[snowy=false]"
+        },
+        {
+            "char": "¥",
+            "block": "betterblockz:cyberlight_blockz_0[lit=true]"
+        },
+        {
+            "char": "¦",
+            "block": "betterblockz:iron_blockz_0"
+        },
+        {
+            "char": "§",
+            "block": "minecraft:grass"
+        },
+        {
+            "char": "¨",
+            "block": "minecraft:dandelion"
+        },
+        {
+            "char": "©",
+            "block": "minecraft:tall_grass[half=lower]"
+        },
+        {
+            "char": "ª",
+            "block": "minecraft:light_gray_concrete"
+        },
+        {
+            "char": "«",
+            "block": "minecraft:cyan_terracotta"
+        },
+        {
+            "char": "¬",
+            "block": "minecraft:tall_grass[half=upper]"
+        },
+        {
+            "char": "®",
+            "block": "lootr:lootr_chest[facing=south,type=single,waterlogged=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "¯",
+            "block": "lootr:lootr_chest[facing=north,type=single,waterlogged=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "°",
+            "block": "minecraft:spawner",
+            "mob": "zombie"
+        },
+        {
+            "char": "±",
+            "block": "minecraft:dirt_path"
+        },
+        {
+            "char": "²",
+            "block": "minecraft:spruce_log[axis=y]"
+        },
+        {
+            "char": "³",
+            "block": "minecraft:azure_bluet"
+        },
+        {
+            "char": "´",
+            "block": "minecraft:oxeye_daisy"
+        },
+        {
+            "char": "µ",
+            "block": "moa_decor_garden_:bancaroble[facing=south]"
+        },
+        {
+            "char": "¶",
+            "block": "minecraft:spruce_leaves[distance=1,persistent=false,waterlogged=false]"
+        },
+        {
+            "char": "·",
+            "block": "minecraft:spruce_leaves[distance=2,persistent=false,waterlogged=false]"
+        },
+        {
+            "char": "¸",
+            "block": "minecraft:spruce_leaves[distance=3,persistent=false,waterlogged=false]"
+        },
+        {
+            "char": "¹",
+            "block": "minecraft:spruce_leaves[distance=4,persistent=false,waterlogged=false]"
+        },
+        {
+            "char": "º",
+            "block": "minecraft:spruce_leaves[distance=5,persistent=false,waterlogged=false]"
+        },
+        {
+            "char": "»",
+            "block": "moa_decor_garden_:bancaroble[facing=north]"
+        },
+        {
+            "char": "¼",
+            "block": "minecraft:poppy"
+        },
+        {
+            "char": "½",
+            "block": "minecraft:cornflower"
+        },
+        {
+            "char": "¾",
+            "block": "lootr:lootr_chest[facing=east,type=single,waterlogged=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "¿",
+            "block": "moa_decor_garden_:bancaroble[facing=east]"
+        },
+        {
+            "char": "À",
+            "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "Á",
+            "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Â",
+            "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "Ã",
+            "block": "minecraft:stone"
+        },
+        {
+            "char": "Ä",
+            "block": "minecraft:stone_bricks"
+        },
+        {
+            "char": "Å",
+            "block": "minecraft:cracked_stone_bricks"
+        },
+        {
+            "char": "Æ",
+            "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ç",
+            "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "È",
+            "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "É",
+            "block": "betterblockz:cyberlight_thin_alt_0[facing=up]"
+        },
+        {
+            "char": "Ê",
+            "block": "minecraft:water[level=2]"
+        },
+        {
+            "char": "Ë",
+            "block": "minecraft:water[level=1]"
+        },
+        {
+            "char": "Ì",
+            "block": "minecraft:water[level=8]"
+        },
+        {
+            "char": "Í",
+            "block": "lootr:lootr_chest[facing=west,type=single,waterlogged=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "Î",
+            "block": "minecraft:water[level=0]"
+        },
+        {
+            "char": "Ï",
+            "block": "lootr:lootr_barrel[facing=south,open=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "Ð",
+            "block": "minecraft:black_concrete"
+        },
+        {
+            "char": "Ñ",
+            "block": "minecraft:gray_concrete"
+        },
+        {
+            "char": "Ò",
+            "block": "betterblockz:cyberlight_blockz_3[lit=true]"
+        },
+        {
+            "char": "Ó",
+            "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "Ô",
+            "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "Õ",
+            "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "Ö",
+            "block": "minecraft:chiseled_stone_bricks"
+        },
+        {
+            "char": "×",
+            "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "Ø",
+            "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "Ù",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:big_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ú",
+            "block": "lootr:lootr_barrel[facing=north,open=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "Û",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:bucket_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "Ü",
+            "block": "lootr:lootr_barrel[facing=east,open=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "Ý",
+            "block": "moa_decor_garden_:bancaroble[facing=west]"
+        },
+        {
+            "char": "Þ",
+            "block": "lootr:lootr_barrel[facing=up,open=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "ß",
+            "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "à",
+            "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "á",
+            "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "â",
+            "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "ã",
+            "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        },
+        {
+            "char": "ä",
+            "block": "lootr:lootr_barrel[facing=west,open=false]",
+            "loot": "building007_loot"
+        },
+        {
+            "char": "å",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:pylon_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "æ",
+            "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]"
+        },
+        {
+            "char": "ç",
+            "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]"
+        },
+        {
+            "char": "è",
+            "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+        },
+        {
+            "char": "é",
+            "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]"
+        },
+        {
+            "char": "ê",
+            "block": "minecraft:command_block[conditional=false,facing=north]",
+            "tag": {
+                "Command": "/spawn infectious:muscular_zombie {PersistenceRequired:true}",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        },
+        {
+            "char": "ë",
+            "block": "betterblockz:cyberlight_blockz_2[lit=true]"
+        },
+        {
+            "char": "ì",
+            "block": "minecraft:command_block[conditional=false,facing=west]",
+            "tag": {
+                "Command": "/placeKeypad securitycraft:keypad_chest[facing=east,type=single,waterlogged=false] building007_chest",
+                "auto": 1,
+                "conditionMet": 1
+            }
+        }
+    ]
+}

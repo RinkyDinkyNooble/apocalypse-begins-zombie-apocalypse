@@ -1,0 +1,36 @@
+{
+    "armorSetName": "pilot_suit",
+    "performanceMode": true,
+    "head": {
+        "itemKey": "zrikons_military_armor:pilot_suite_helmet",
+        "mustBeEmpty": false
+    },
+    "chest": {
+        "itemKey": "zrikons_military_armor:pilot_suite_chestplate",
+        "mustBeEmpty": false
+    },
+    "legs": {
+        "itemKey": "zrikons_military_armor:pilot_suite_leggings",
+        "mustBeEmpty": false
+    },
+    "boots": {
+        "itemKey": "zrikons_military_armor:pilot_suite_boots",
+        "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+        {
+            "type": "attribute",
+            "name": "puffish_attributes:fall_reduction",
+            "value": 5.0,
+            "modifierUUID": "ec88c55b-6de8-4b4f-9271-f368c8838db7",
+            "description": "+5 Fall Reduction",
+            "attributeOperation": 0,
+            "interactionType": "self",
+            "interactionDuration": 60,
+            "hideBonusDescription": false,
+            "onlyImmuneToNewEffects": false,
+            "percentageChance": 100.0
+        }
+    ],
+    "hideGeneratedTooltip": false
+}

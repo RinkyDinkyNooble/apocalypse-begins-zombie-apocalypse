@@ -35,7 +35,7 @@
 
 [clogger]
 	#Clogger will usaully not tolererate player cheesing in a fight
-	"Will clogger dig away(despawn) from cowardice enemy?" = true
+	"Will clogger dig away(despawn) from cowardice enemy?" = false
 
 [suckers]
 	#To disable/enable this machanic
@@ -51,7 +51,7 @@
 
 ["The Wolf"]
 	#They usaully spawn blade like mobs to attack target
-	"Can the wolf spawn stroms" = true
+	"Can the wolf spawn stroms" = false
 	#Somehow it cant be chnaged via attributes so here it is. (exclusively for this mob)
 	"The wolf swinging attack Damage" = 4.0
 

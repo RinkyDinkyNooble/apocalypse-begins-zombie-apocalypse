@@ -1,0 +1,23 @@
+{
+    "filler": "~",
+    "rubble": "}",
+    "mincellars": 0,
+    "maxcellars": 0,
+    "minfloors": 1,
+    "maxfloors": 1,
+    "allowDoors": false,
+    "parts": [
+        {
+            "cellar": false,
+            "ground": true,
+            "top": false,
+            "part": "building007_2_3_ground"
+        },
+        {
+            "cellar": false,
+            "ground": false,
+            "top": true,
+            "part": "building007_2_3_top"
+        }
+    ]
+}

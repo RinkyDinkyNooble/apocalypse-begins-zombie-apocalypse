@@ -1,0 +1,30 @@
+{
+    "dimx": 4,
+    "dimz": 4,
+    "buildings": [
+        [
+            "building007_0_0_building",
+            "building007_0_1_building",
+            "building007_0_2_building",
+            "building007_0_3_building"
+        ],
+        [
+            "building007_1_0_building",
+            "building007_1_1_building",
+            "building007_1_2_building",
+            "building007_1_3_building"
+        ],
+        [
+            "building007_2_0_building",
+            "building007_2_1_building",
+            "building007_2_2_building",
+            "building007_2_3_building"
+        ],
+        [
+            "building007_3_0_building",
+            "building007_3_1_building",
+            "building007_3_2_building",
+            "building007_3_3_building"
+        ]
+    ]
+}

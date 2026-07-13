@@ -1,0 +1,117 @@
+{
+    "style": "standard",
+    "stuff_tags": [],
+    "streetblocks": {
+        "border": "y",
+        "wall": "w",
+        "street": "S",
+        "streetbase": "b",
+        "streetvariant": "B",
+        "width": 8
+    },
+    "parkblocks": {
+        "elevation": "x"
+    },
+    "corridorblocks": {
+        "roof": "x",
+        "glass": "+"
+    },
+    "railblocks": {
+        "railmain": "y"
+    },
+    "sphereblocks": {
+        "glass": "Z",
+        "border": "9",
+        "inner": "b"
+    },
+    "selectors": {
+        "buildings": [
+            {
+                "factor": 0.2,
+                "value": "building001_building"
+            },
+            {
+                "factor": 0.2,
+                "value": "building002_building"
+            },
+            {
+                "factor": 0.15,
+                "value": "building005_building"
+            },
+            {
+                "factor": 0.1,
+                "value": "building006_building"
+            }
+        ],
+        "multibuildings": [
+            {
+                "factor": 0.2,
+                "value": "building003_multibuilding"
+            },
+            {
+                "factor": 0.1,
+                "value": "building004_multibuilding"
+            },
+            {
+                "factor": 0.05,
+                "value": "building007_multibuilding"
+            }
+        ],
+        "bridges": [
+            {
+                "factor": 0.0,
+                "value": "bridge_open"
+            }
+        ],
+        "fronts": [
+            {
+                "factor": 0.0,
+                "value": "building_front1"
+            }
+        ],
+        "stairs": [
+            {
+                "factor": 1.0,
+                "value": "stairs1"
+            },
+            {
+                "factor": 1.0,
+                "value": "stairs2"
+            },
+            {
+                "factor": 1.0,
+                "value": "stairsnormal"
+            },
+            {
+                "factor": 1.0,
+                "value": "stairsbig"
+            }
+        ],
+        "fountains": [
+            {
+                "factor": 1.0,
+                "value": "bandit_spawn"
+            },
+            {
+                "factor": 2.0,
+                "value": "police_spawn"
+            },
+            {
+                "factor": 3.0,
+                "value": "survivor1_spawn"
+            }
+        ],
+        "parks": [
+            {
+                "factor": 1.0,
+                "value": "park_pool"
+            }
+        ],
+        "raildungeons": [
+            {
+                "factor": 0.0,
+                "value": "rail_dungeon1"
+            }
+        ]
+    }
+}

@@ -1,1 +1,0 @@
-A kit focused on medical supplies. Has some defensive and offensive capability.

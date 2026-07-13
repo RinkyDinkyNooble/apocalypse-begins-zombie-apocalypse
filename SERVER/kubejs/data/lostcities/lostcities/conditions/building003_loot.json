@@ -1,0 +1,13 @@
+{
+    "values": [
+        {
+            "factor": 1,
+            "value": "abza:building003/general"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building003/codes",
+            "inpart": "building003_0_1_top"
+        }
+    ]
+}

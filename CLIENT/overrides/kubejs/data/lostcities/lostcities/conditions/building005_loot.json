@@ -1,0 +1,23 @@
+{
+    "values": [
+        {
+            "factor": 1,
+            "value": "abza:building005/general"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building005/codes",
+            "inpart": "building005_top"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building005/vault",
+            "inpart": "building005_cellar0"
+        },
+        {
+            "factor": 100,
+            "value": "abza:building005/vault",
+            "inpart": "building005_cellar1"
+        }
+    ]
+}

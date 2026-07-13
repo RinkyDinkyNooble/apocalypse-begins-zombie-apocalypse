@@ -1,0 +1,1 @@
+This kit provides basic combat gear and a codebreaker used for bypassing codes on password-protected storage.

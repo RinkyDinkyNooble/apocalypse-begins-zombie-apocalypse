@@ -1,0 +1,22 @@
+[
+    {
+        "item": "infectious:hazmat_suit_helmet",
+        "protection": 0.25,
+        "operation": "add_value"
+    },
+    {
+        "item": "infectious:hazmat_suit_chestplate",
+        "protection": 0.25,
+        "operation": "add_value"
+    },
+    {
+        "item": "infectious:hazmat_suit_leggings",
+        "protection": 0.25,
+        "operation": "add_value"
+    },
+    {
+        "item": "infectious:hazmat_suit_boots",
+        "protection": 0.25,
+        "operation": "add_value"
+    }
+]
